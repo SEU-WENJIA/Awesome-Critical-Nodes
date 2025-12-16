@@ -9,6 +9,17 @@ Our work enhances the understanding of critical node research by identifying key
 
 
 
+<div align="center">
+
+**[<a href="https://arxiv.org/abs/2507.06164">Paper Page</a>]**
+**[<a href="https://mp.weixin.qq.com/s/a2vSxOfPIuFAe1v-YWMh_A">中文解读1</a>]**
+**[<a href="https://mp.weixin.qq.com/s/vL-FXwYPN7d_bXblSec8Nw">中文解读2</a>]**
+</div>
+
+
+
+
+
 <p align="center">
 <img src="img/framework.png" height = "500" alt="" align=center />
 </p>
