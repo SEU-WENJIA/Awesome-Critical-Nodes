@@ -12,3 +12,33 @@ Our work enhances the understanding of critical node research by identifying key
 <p align="center">
 <img src="img/framework.png" height = "500" alt="" align=center />
 </p>
+
+
+
+If you find this repository helpful for your research, please cite our paper. 
+
+```tex
+@article{chen2025critical,
+  title={Critical nodes identification in complex networks: a survey},
+  author={Chen, Duxin and Chen, Jiawen and Zhang, Xiaoyu and Jia, Qinghan and Liu, Xiaolu and Sun, Ye and Lv, Linyuan and Yu, Wenwu},
+  journal={arXiv preprint arXiv:2507.06164},
+  year={2025}
+}
+
+@article{Chen2025CriticalNodes,
+  author    = {Duxin Chen and Jiawen Chen and Xiaoyu Zhang and Qinghan Jia and Xiaolu Liu and Ye Sun and Linyuan L{\"u} and Wenwu Yu},
+  title     = {Critical nodes identification in complex networks: a survey},
+  journal   = {Complex Engineering Systems},
+  year      = {2025},
+  volume    = {5},
+  number    = {3},
+  pages     = {11},
+  issn      = {2770-6249},
+  doi       = {10.20517/ces.2025.34}
+}
+
+```
+
+
+
+
