@@ -127,44 +127,44 @@ If you find this repository helpful for your research, please cite our paper.
 
 
 #### 1.2 K-shell decomposition
-- Kitsak, M.; Gallos, L. K.; Havlin, S.; et al. Identification of influential spreaders in complex networks](''). Nat. Phys. 2010, 6, 888-93.
+- Kitsak, M.; Gallos, L. K.; Havlin, S.; et al. [Identification of influential spreaders in complex networks]('https://www.nature.com/articles/nphys1746'). Nat. Phys. 2010, 6, 888-93.
 
-- Zeng, A.; Zhang, C. J. Ranking spreaders by decomposing complex networks](''). Phys. Lett. A. 2013, 377, 1031-35.
+- Zeng, A.; Zhang, C. J. Ranking spreaders by decomposing complex networks]('https://doi.org/10.1016/j.physleta.2013.02.039'). Phys. Lett. A. 2013, 377, 1031-35.
 
-- Li, C.; Wang, L.; Sun, S.; Xia, C. Identification of influential spreaders based on classified neighbors in real-world complex networks.]('') Appl. Math. Comput. 2018, 320, 512-23.
+- Li, C.; Wang, L.; Sun, S.; Xia, C. Identification of influential spreaders based on classified neighbors in real-world complex networks.]('https://dx.doi.org/10.1016/j.amc.2017.10.001') Appl. Math. Comput. 2018, 320, 512-23.
 
-- Liu, J. G.; Ren, Z. M.; Guo, Q. Ranking the spreading influence in complex networks.]('') Phys. A. 2013, 392, 4154-59.
+- Liu, J. G.; Ren, Z. M.; Guo, Q. Ranking the spreading influence in complex networks.]('https://doi.org/10.1016/j.physa.2013.04.032') Phys. A. 2013, 392, 4154-59.
 
-- Zareie, A.; Sheikhahmadi, A. A hierarchical approach for influential node ranking in complex social networks. Expert.]('') Syst. Appl. 2018, 93, 200-211.
+- Zareie, A.; Sheikhahmadi, A. A hierarchical approach for influential node ranking in complex social networks. Expert.]('https://doi.org/10.1016/j.eswa.2017.10.018') Syst. Appl. 2018, 93, 200-211.
 
-- Ibnoulouafi, A.; El Haziti, M.; Cherifi, H. M-centrality: identifying key nodes based on global position and local degree variation.]('') J. Stat. Mech. 2018, 2018, 073407.
+- Ibnoulouafi, A.; El Haziti, M.; Cherifi, H. M-centrality: identifying key nodes based on global position and local degree variation.]('https://iopscience.iop.org/article/10.1088/1742-5468/aace08') J. Stat. Mech. 2018, 2018, 073407.
 
-- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Core-like groups result in invalidation of identifying super-spreader by k-shell decomposition.]('') Sci. Rep. 2015, 5, 9602.
+- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Core-like groups result in invalidation of identifying super-spreader by k-shell decomposition.]('https://doi.org/10.1038/srep09602') Sci. Rep. 2015, 5, 9602.
 
  
-- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Improving the accuracy of the k-shell method by removing redundant links: from a perspective of spreading dynamics.]('') Sci. Rep. 2015, 5, 13172.
+- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Improving the accuracy of the k-shell method by removing redundant links: from a perspective of spreading dynamics.]('https://doi.org/10.1038/srep13172') Sci. Rep. 2015, 5, 13172.
 
 
 
 #### 1.3 H-index
--  Lü, L.; Zhou, T.; Zhang, Q. M.; Stanley, H. E. The H-index of a network node and its relation to degree and coreness.]('') Nat. Commun. 2016, 7, 10168.
+-  Lü, L.; Zhou, T.; Zhang, Q. M.; Stanley, H. E. The H-index of a network node and its relation to degree and coreness.]('https://doi.org/10.1038/ncomms10168') Nat. Commun. 2016, 7, 10168.
 
  
-- Liu, Q.; Zhu, Y. X.; Jia, Y.; et al. Leveraging local h-index to identify and rank influential spreaders in networks.]('') Phys. A. 2018, 512, 379-91.
+- Liu, Q.; Zhu, Y. X.; Jia, Y.; et al. Leveraging local h-index to identify and rank influential spreaders in networks.]('https://doi.org/10.1016/j.physa.2018.08.081') Phys. A. 2018, 512, 379-91.
 
-- Gao, L.; Yu, S.; Li, M.; Shen, Z.; Gao, Z. Weighted h-index for identifying influential spreaders.]('') Symmetry 2019, 11, 1263.
+- Gao, L.; Yu, S.; Li, M.; Shen, Z.; Gao, Z. Weighted h-index for identifying influential spreaders.]('https://doi.org/10.3390/sym11101263') Symmetry 2019, 11, 1263.
 
-- Zareie, A.; Sheikhahmadi, A. EHC: extended H-index centrality measure for identification of users' spreading influence in complex networks. ]('')Phys. A. 2019, 514, 141-55.
+- Zareie, A.; Sheikhahmadi, A. EHC: extended H-index centrality measure for identification of users' spreading influence in complex networks. ]('https://doi.org/10.3390/sym11101263')Phys. A. 2019, 514, 141-55.
 
 #### 1.4 K-truss
 - Cohen, J. [Trusses: cohesive subgraphs for social network analysis.]('https://www.researchgate.net/publication/242103824_Trusses_Cohesive_Subgraphs_for_Social_Network_Analysis') National Security Agency Technical Report; 2008.
 
-- Malliaros, F. D.; Rossi, M. E. G.; Vazirgiannis, M. Locating influential nodes in complex networks.]('')  Sci. Rep. 2016, 6, 19307.
+- Malliaros, F. D.; Rossi, M. E. G.; Vazirgiannis, M. Locating influential nodes in complex networks.]('https://doi.org/10.1038/srep19307')  Sci. Rep. 2016, 6, 19307.
 
 #### 1.5 Structural hole
--  Yu, F.; Xia, X.; Li, W.; et al. Critical node identification for complex network based on a novel minimum connected dominating set.]('')  Soft. Comput. 2017, 21, 5621-29.
+-  Yu, F.; Xia, X.; Li, W.; et al. Critical node identification for complex network based on a novel minimum connected dominating set.]('https://doi.org/10.1007/s00500-016-2303-y')  Soft. Comput. 2017, 21, 5621-29.
 
-- Yu, H.; Cao, X.; Liu, Z.; Li, Y. Identifying key nodes based on improved structural holes in complex networks.]('')  Phys. A. 2017, 486, 318-27.
+- Yu, H.; Cao, X.; Liu, Z.; Li, Y. Identifying key nodes based on improved structural holes in complex networks.]('https://doi.org/10.1016/j.physa.2017.05.028')  Phys. A. 2017, 486, 318-27.
 
 - Xu, H.; Zhang, J.; Yang, J.; Lun, L. Identifying important nodes in complex networks based on multiattribute evaluation.]('')  Math. Probl. Eng. 2018, 2018, 8268436.
 
