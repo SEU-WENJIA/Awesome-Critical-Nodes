@@ -34,6 +34,7 @@ Enjoy it Below:
   - [Contributions](#contributions)
     - [Contribute in 3 Steps](#contribute-in-3-steps)
     - [Guidelines](#guidelines)
+  - [Critical Nodes Identification in Complex Networks: A Survey](#critical-nodes-identification-in-complex-networks-a-survey-1)
     - [1. Neighbors-Based Ranking Methods](#1-neighbors-based-ranking-methods)
       - [1.1 Degree centrality](#11-degree-centrality)
       - [1.2 K-shell decomposition](#12-k-shell-decomposition)
@@ -105,7 +106,7 @@ Enjoy it Below:
 
 
 
-
+## Critical Nodes Identification in Complex Networks: A Survey
 
 
 
