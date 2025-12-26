@@ -113,7 +113,7 @@ If you find this repository helpful for your research, please cite our paper.
 
 #### 1.1 Degree centrality
 
-- Bavelas, A. [A mathematical model for group structures](''). Hum. Organ. 1948, 7, 16-30.
+- Bavelas, A. [A mathematical model for group structures]('https://meridian.allenpress.com/human-organization/article/7/3/16/72796'). Hum. Organ. 1948, 7, 16-30.
 
 - Nieminen, J. [On the centrality in a graph]('https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9450.1974.tb00598.x'). Scand. J. Psychol. 1974, 15, 332-36.
 
