@@ -73,6 +73,7 @@ Enjoy it Below:
       - [7.2 Dynamical sensitivity](#72-dynamical-sensitivity)
     - [8. Higher-order Networks Based Ranking Methods](#8-higher-order-networks-based-ranking-methods)
     - [9 Dynamic Networks Based Ranking methods](#9-dynamic-networks-based-ranking-methods)
+    - [Citation](#citation)
 
 
 
@@ -882,51 +883,51 @@ Enjoy it Below:
 
 - Elmezain, M.; Othman, E. A.; Ibrahim, H. M. Temporal degree-degree and closeness-closeness: a new centrality metrics for social network analysis.() Mathematics 2021, 9, 2850.
 
--  Lü, L.; Zhang, K.; Zhang, T.; et al. Eigenvector centrality measure based on node similarity for multilayer and temporal networks.() IEEE. Access. 2019, 7, 115725-33.
+-  Lü, L.; Zhang, K.; Zhang, T.; et al. Eigenvector centrality measure based on node similarity for multilayer and temporal networks.(http://dx.doi.org/10.1109/ACCESS.2019.2936217) IEEE. Access. 2019, 7, 115725-33.
 
--  Lü, .; L., Zhang. K.; Zhang, T.; et al. PageRank centrality for temporal networks.()  Phys. Lett. A. 2019, 383, 1215-22.
+-  Lü, .; L., Zhang. K.; Zhang, T.; et al. PageRank centrality for temporal networks.(http://dx.doi.org/10.1016/j.physleta.2019.01.041)  Phys. Lett. A. 2019, 383, 1215-22.
 
--  Lü, L.; Zhang, K.; Bardou, D.; et al. HITS centrality based on inter-layer similarity for multilayer temporal networks.() Neurocomputing 2021, 423, 220-35.
+-  Lü, L.; Zhang, K.; Bardou, D.; et al. HITS centrality based on inter-layer similarity for multilayer temporal networks.(http://dx.doi.org/10.1016/j.neucom.2020.10.040) Neurocomputing 2021, 423, 220-35.
 
--  Bi, J.; Jin, J.; Qu, C.; et al. Temporal gravity model for important node identification in temporal networks.() Chaos. Soliton. Fract. 2021, 147, 110934.
+-  Bi, J.; Jin, J.; Qu, C.; et al. Temporal gravity model for important node identification in temporal networks.(http://dx.doi.org/10.1016/j.chaos.2021.110934) Chaos. Soliton. Fract. 2021, 147, 110934.
 
--  Jiang, J. L.; Fang, H.; Li, S. Q.; Li, W. M. Identifying important nodes for temporal networks based on the ASAM model.() Phys. A. 2022, 586, 126455.
+-  Jiang, J. L.; Fang, H.; Li, S. Q.; Li, W. M. Identifying important nodes for temporal networks based on the ASAM model.(http://dx.doi.org/10.1016/j.physa.2021.126455) Phys. A. 2022, 586, 126455.
 
--  Taylor, D.; Myers, S. A.; Clauset, A.; Porter, M. A.; Mucha, P. J. Eigenvector-based centrality measures for temporal networks. Multiscale. () Model. Simul. 2017, 15, 537-74.
-
- 
-- Tao, L.; Kong, S.; He, L.; et al. A sequential-path tree-based centrality for identifying influential spreaders in temporal networks.() Chaos. Soliton. Fract. 2022, 165, 112766.
-
--  Chen, B.; Hou, G.; Li, A. Temporal local clustering coefficient uncovers the hidden pattern in temporal networks.() Phys. Rev. E. 2024, 109, 064302.
-
-- Pan, R. K.; Saramäki, J. Path lengths, correlations, and centrality in temporal networks.() Phys. Rev. E. 2011, 84, 016105.
-
--  Song, G.; Li, Y.; Chen, X.; He, X.; Tang, J. Influential node tracking on dynamic social network: An interchange greedy approach.() IEEE. Trans. Knowl. Data. Eng. 2016, 29, 359-72.
-
--  Huang, D. W.; Yu, Z. G. Dynamic-Sensitive centrality of nodes in temporal networks.() Sci. Rep. 2017, 7, 41454.
+-  Taylor, D.; Myers, S. A.; Clauset, A.; Porter, M. A.; Mucha, P. J. Eigenvector-based centrality measures for temporal networks. Multiscale. (http://dx.doi.org/10.1137/16M1066142) Model. Simul. 2017, 15, 537-74.
 
  
--  Huang, Q.; Zhao, C.; Zhang, X.; Wang, X.; Yi, D. Centrality measures in temporal networks with time series analysis.() Europhys. Lett. 2017, 118, 36001.
+- Tao, L.; Kong, S.; He, L.; et al. A sequential-path tree-based centrality for identifying influential spreaders in temporal networks.(http://dx.doi.org/10.1016/j.chaos.2022.112766) Chaos. Soliton. Fract. 2022, 165, 112766.
 
--  Qu, C.; Zhan, X.; Wang, G.; Wu, J.; Zhang, Z. K. Temporal information gathering process for node ranking in time-varying networks.() Chaos 2019, 29, 033116.
+-  Chen, B.; Hou, G.; Li, A. Temporal local clustering coefficient uncovers the hidden pattern in temporal networks.(http://dx.doi.org/10.1103/PhysRevE.109.064302) Phys. Rev. E. 2024, 109, 064302.
 
- 
--  Arebi, P.; Fatemi, A.; Ramezani, R. An effective approach based on temporal centrality measures for improving temporal network controllability.() Cyber. Syst. 2022, 56, 1-20.
+- Pan, R. K.; Saramäki, J. Path lengths, correlations, and centrality in temporal networks.(http://dx.doi.org/10.1103/PhysRevE.84.016105) Phys. Rev. E. 2011, 84, 016105.
 
--  Li, Y.; Zhao, Y.; Xu, T.; Wu, S. Node importance research of temporal CPPS networks for information fusion.() IEEE. Trans. Reliab. 2023, 73, 1291-301.
+-  Song, G.; Li, Y.; Chen, X.; He, X.; Tang, J. Influential node tracking on dynamic social network: An interchange greedy approach.(http://dx.doi.org/10.1109/tkde.2016.2620141) IEEE. Trans. Knowl. Data. Eng. 2016, 29, 359-72.
 
--  Zhang, T.; Fang, J.; Yang, Z.; Cao, B.; Fan, J. TATKC: a temporal graph neural network for fast approximate temporal Katz centrality ranking.() In: Proceedings of the ACM on Web Conference 2024, 2024. pp. 527-38.
-
-- Yu, E.; Fu, Y.; Chen, X.; Xie, M.; Chen, D. Identifying critical nodes in temporal networks by network embedding. ()Sci. Rep. 2020, 10, 12494.
+-  Huang, D. W.; Yu, Z. G. Dynamic-Sensitive centrality of nodes in temporal networks.(http://dx.doi.org/10.1038/srep41454) Sci. Rep. 2017, 7, 41454.
 
  
-- Yu, E.; Fu, Y.; Zhou, J.; Sun, H.; Chen, D. Predicting critical nodes in temporal networks by dynamic graph convolutional networks.() Appl. Sci. 2023, 13, 7272.
+-  Huang, Q.; Zhao, C.; Zhang, X.; Wang, X.; Yi, D. Centrality measures in temporal networks with time series analysis.(http://dx.doi.org/10.1209/0295-5075/118/36001) Europhys. Lett. 2017, 118, 36001.
 
--  Wang, L.; Mou, J.; Dai, B.; et al. Influential nodes identification based on hierarchical structure. () Chaos. Soliton. Fract. 2024, 186, 115227.
+-  Qu, C.; Zhan, X.; Wang, G.; Wu, J.; Zhang, Z. K. Temporal information gathering process for node ranking in time-varying networks.(http://dx.doi.org/10.1063/1.5086059) Chaos 2019, 29, 033116.
+
+ 
+-  Arebi, P.; Fatemi, A.; Ramezani, R. An effective approach based on temporal centrality measures for improving temporal network controllability.(http://dx.doi.org/10.1080/01969722.2022.2159162) Cyber. Syst. 2022, 56, 1-20.
+
+-  Li, Y.; Zhao, Y.; Xu, T.; Wu, S. Node importance research of temporal CPPS networks for information fusion.(http://dx.doi.org/10.1109/TR.2023.3329124) IEEE. Trans. Reliab. 2023, 73, 1291-301.
+
+-  Zhang, T.; Fang, J.; Yang, Z.; Cao, B.; Fan, J. TATKC: a temporal graph neural network for fast approximate temporal Katz centrality ranking.(http://dx.doi.org/10.1145/3589334.3645432) In: Proceedings of the ACM on Web Conference 2024, 2024. pp. 527-38.
+
+- Yu, E.; Fu, Y.; Chen, X.; Xie, M.; Chen, D. Identifying critical nodes in temporal networks by network embedding. (http://dx.doi.org/10.1038/s41598-020-69379-z) Sci. Rep. 2020, 10, 12494.
+
+ 
+- Yu, E.; Fu, Y.; Zhou, J.; Sun, H.; Chen, D. Predicting critical nodes in temporal networks by dynamic graph convolutional networks.(http://dx.doi.org/10.3390/app13127272) Appl. Sci. 2023, 13, 7272.
+
+-  Wang, L.; Mou, J.; Dai, B.; et al. Influential nodes identification based on hierarchical structure. (http://dx.doi.org/10.1016/j.chaos.2024.115227) Chaos. Soliton. Fract. 2024, 186, 115227.
 
 
 
-
+### Citation
 
 If you find this repository helpful for your research, Welcome to cite our paper. 
 
