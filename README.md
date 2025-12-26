@@ -113,80 +113,80 @@ If you find this repository helpful for your research, please cite our paper.
 
 #### 1.1 Degree centrality
 
-- Bavelas, A. A mathematical model for group structures. Hum. Organ. 1948, 7, 16-30.
+- Bavelas, A. [A mathematical model for group structures](''). Hum. Organ. 1948, 7, 16-30.
 
-- Nieminen, J. On the centrality in a graph. Scand. J. Psychol. 1974, 15, 332-36.
+- Nieminen, J. [On the centrality in a graph]('https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9450.1974.tb00598.x'). Scand. J. Psychol. 1974, 15, 332-36.
 
  
-- Chen, D.; Lü, L.; Shang, M. S.; Zhang, Y. C.; Zhou, T. Identifying influential nodes in complex networks. Phys. A. 2012, 391, 1777-87.
+- Chen, D.; Lü, L.; Shang, M. S.; Zhang, Y. C.; Zhou, T. [Identifying influential nodes in complex networks]('https://doi.org/10.1016/j.physa.2011.09.017'). Phys. A. 2012, 391, 1777-87.
 
-- Ma, Y.; Cao, Z.; Qi, X. Quasi-Laplacian centrality: a new vertex centrality measurement based on Quasi-Laplacian energy of networks. Phys. A. 2019, 527, 121130.
+- Ma, Y.; Cao, Z.; Qi, X. [Quasi-Laplacian centrality: a new vertex centrality measurement based on Quasi-Laplacian energy of networks]('https://doi.org/10.1016/j.physa.2019.121130'). Phys. A. 2019, 527, 121130.
 
-- Zhu, X.; Hao, R. Identifying influential nodes in social networks via improved Laplacian centrality. Chaos. Soliton. Fract. 2024, 189, 115675.
+- Zhu, X.; Hao, R. [Identifying influential nodes in social networks via improved Laplacian centrality]('https://doi.org/10.1016/j.chaos.2024.115675'). Chaos. Soliton. Fract. 2024, 189, 115675.
 
 
 
 #### 1.2 K-shell decomposition
-- Kitsak, M.; Gallos, L. K.; Havlin, S.; et al. Identification of influential spreaders in complex networks. Nat. Phys. 2010, 6, 888-93.
+- Kitsak, M.; Gallos, L. K.; Havlin, S.; et al. Identification of influential spreaders in complex networks](''). Nat. Phys. 2010, 6, 888-93.
 
-- Zeng, A.; Zhang, C. J. Ranking spreaders by decomposing complex networks. Phys. Lett. A. 2013, 377, 1031-35.
+- Zeng, A.; Zhang, C. J. Ranking spreaders by decomposing complex networks](''). Phys. Lett. A. 2013, 377, 1031-35.
 
-- Li, C.; Wang, L.; Sun, S.; Xia, C. Identification of influential spreaders based on classified neighbors in real-world complex networks. Appl. Math. Comput. 2018, 320, 512-23.
+- Li, C.; Wang, L.; Sun, S.; Xia, C. Identification of influential spreaders based on classified neighbors in real-world complex networks.]('') Appl. Math. Comput. 2018, 320, 512-23.
 
-- Liu, J. G.; Ren, Z. M.; Guo, Q. Ranking the spreading influence in complex networks. Phys. A. 2013, 392, 4154-59.
+- Liu, J. G.; Ren, Z. M.; Guo, Q. Ranking the spreading influence in complex networks.]('') Phys. A. 2013, 392, 4154-59.
 
-- Zareie, A.; Sheikhahmadi, A. A hierarchical approach for influential node ranking in complex social networks. Expert. Syst. Appl. 2018, 93, 200-211.
+- Zareie, A.; Sheikhahmadi, A. A hierarchical approach for influential node ranking in complex social networks. Expert.]('') Syst. Appl. 2018, 93, 200-211.
 
-- Ibnoulouafi, A.; El Haziti, M.; Cherifi, H. M-centrality: identifying key nodes based on global position and local degree variation. J. Stat. Mech. 2018, 2018, 073407.
+- Ibnoulouafi, A.; El Haziti, M.; Cherifi, H. M-centrality: identifying key nodes based on global position and local degree variation.]('') J. Stat. Mech. 2018, 2018, 073407.
 
-- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Core-like groups result in invalidation of identifying super-spreader by k-shell decomposition. Sci. Rep. 2015, 5, 9602.
+- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Core-like groups result in invalidation of identifying super-spreader by k-shell decomposition.]('') Sci. Rep. 2015, 5, 9602.
 
  
-- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Improving the accuracy of the k-shell method by removing redundant links: from a perspective of spreading dynamics. Sci. Rep. 2015, 5, 13172.
+- Liu, Y.; Tang, M.; Zhou, T.; Do, Y. Improving the accuracy of the k-shell method by removing redundant links: from a perspective of spreading dynamics.]('') Sci. Rep. 2015, 5, 13172.
 
 
 
 #### 1.3 H-index
--  Lü, L.; Zhou, T.; Zhang, Q. M.; Stanley, H. E. The H-index of a network node and its relation to degree and coreness. Nat. Commun. 2016, 7, 10168.
+-  Lü, L.; Zhou, T.; Zhang, Q. M.; Stanley, H. E. The H-index of a network node and its relation to degree and coreness.]('') Nat. Commun. 2016, 7, 10168.
 
  
-- Liu, Q.; Zhu, Y. X.; Jia, Y.; et al. Leveraging local h-index to identify and rank influential spreaders in networks. Phys. A. 2018, 512, 379-91.
+- Liu, Q.; Zhu, Y. X.; Jia, Y.; et al. Leveraging local h-index to identify and rank influential spreaders in networks.]('') Phys. A. 2018, 512, 379-91.
 
-- Gao, L.; Yu, S.; Li, M.; Shen, Z.; Gao, Z. Weighted h-index for identifying influential spreaders. Symmetry 2019, 11, 1263.
+- Gao, L.; Yu, S.; Li, M.; Shen, Z.; Gao, Z. Weighted h-index for identifying influential spreaders.]('') Symmetry 2019, 11, 1263.
 
-- Zareie, A.; Sheikhahmadi, A. EHC: extended H-index centrality measure for identification of users' spreading influence in complex networks. Phys. A. 2019, 514, 141-55.
+- Zareie, A.; Sheikhahmadi, A. EHC: extended H-index centrality measure for identification of users' spreading influence in complex networks. ]('')Phys. A. 2019, 514, 141-55.
 
 #### 1.4 K-truss
-- Cohen, J. Trusses: cohesive subgraphs for social network analysis. National Security Agency Technical Report; 2008. Available from: https://www.researchgate.net/publication/242103824_Trusses_Cohesive_Subgraphs_for_Social_Network_Analysis[Last accessed on 10 Jul 2025].
+- Cohen, J. [Trusses: cohesive subgraphs for social network analysis.]('https://www.researchgate.net/publication/242103824_Trusses_Cohesive_Subgraphs_for_Social_Network_Analysis') National Security Agency Technical Report; 2008.
 
-- Malliaros, F. D.; Rossi, M. E. G.; Vazirgiannis, M. Locating influential nodes in complex networks. Sci. Rep. 2016, 6, 19307.
+- Malliaros, F. D.; Rossi, M. E. G.; Vazirgiannis, M. Locating influential nodes in complex networks.]('')  Sci. Rep. 2016, 6, 19307.
 
 #### 1.5 Structural hole
--  Yu, F.; Xia, X.; Li, W.; et al. Critical node identification for complex network based on a novel minimum connected dominating set. Soft. Comput. 2017, 21, 5621-29.
+-  Yu, F.; Xia, X.; Li, W.; et al. Critical node identification for complex network based on a novel minimum connected dominating set.]('')  Soft. Comput. 2017, 21, 5621-29.
 
-- Yu, H.; Cao, X.; Liu, Z.; Li, Y. Identifying key nodes based on improved structural holes in complex networks. Phys. A. 2017, 486, 318-27.
+- Yu, H.; Cao, X.; Liu, Z.; Li, Y. Identifying key nodes based on improved structural holes in complex networks.]('')  Phys. A. 2017, 486, 318-27.
 
-- Xu, H.; Zhang, J.; Yang, J.; Lun, L. Identifying important nodes in complex networks based on multiattribute evaluation. Math. Probl. Eng. 2018, 2018, 8268436.
+- Xu, H.; Zhang, J.; Yang, J.; Lun, L. Identifying important nodes in complex networks based on multiattribute evaluation.]('')  Math. Probl. Eng. 2018, 2018, 8268436.
 
-- Liu, Y.; Wang, J.; He, H.; Huang, G.; Shi, W. Identifying important nodes affecting network security in complex networks. Int. J. Distrib. Sens. Netw. 2021, 17, 1550147721999285.
+- Liu, Y.; Wang, J.; He, H.; Huang, G.; Shi, W. Identifying important nodes affecting network security in complex networks.]('')  Int. J. Distrib. Sens. Netw. 2021, 17, 1550147721999285.
 
-- Zhao, Z.; Li, D.; Sun, Y.; Zhang, R.; Liu, J. Ranking influential spreaders based on both node k-shell and structural hole. Knowl. Based. Syst. 2023, 260, 110163.
+- Zhao, Z.; Li, D.; Sun, Y.; Zhang, R.; Liu, J. Ranking influential spreaders based on both node k-shell and structural hole. Knowl.]('')  Based. Syst. 2023, 260, 110163.
 
-- Ma, J.; Kong, L.; Li, H. An effective edge-adding strategy for enhancing network traffic capacity. Phys. A. 2023, 609, 128321.
+- Ma, J.; Kong, L.; Li, H. An effective edge-adding strategy for enhancing network traffic capacity.]('')  Phys. A. 2023, 609, 128321.
 
 
 
 #### 1.6 Neighborhood similarity
 
-- Wang, P.; Xu, B.; Wu, Y.; Zhou, X. Link prediction in social networks: the state-of-the-art. Sci. China. Inf. Sci. 2015, 1, 1-38.
+- Wang, P.; Xu, B.; Wu, Y.; Zhou, X. Link prediction in social networks: the state-of-the-art.]('')  Sci. China. Inf. Sci. 2015, 1, 1-38.
 
-- Lu, P.; Zhang, Z. Critical nodes identification in complex networks via similarity coefficient. Mod. Phys. Lett. B. 2022, 36, 2150620.
+- Lu, P.; Zhang, Z. Critical nodes identification in complex networks via similarity coefficient.]('')  Mod. Phys. Lett. B. 2022, 36, 2150620.
 
-- Ai, J.; He, T.; Su, Z. Identifying influential nodes in complex networks based on resource allocation similarity. Phys. A. 2023, 627, 129101.
+- Ai, J.; He, T.; Su, Z. Identifying influential nodes in complex networks based on resource allocation similarity.]('')  Phys. A. 2023, 627, 129101.
 
-- Rao, K. V.; Chowdary, C. R. CBIM: community-based influence maximization in multilayer networks. Inf. Sci. 2022, 609, 578-94.
+- Rao, K. V.; Chowdary, C. R. CBIM: community-based influence maximization in multilayer networks.]('')  Inf. Sci. 2022, 609, 578-94.
 
-- Tong, T.; Yuan, W.; Jalili, M.; Dong, Q.; Sun, J. A novel ranking approach for identifying crucial spreaders in complex networks based on Tanimoto Correlation. Expert. Syst. Appl. 2024, 255, 124513.
+- Tong, T.; Yuan, W.; Jalili, M.; Dong, Q.; Sun, J. A novel ranking approach for identifying crucial spreaders in complex networks based on Tanimoto Correlation.]('')  Expert. Syst. Appl. 2024, 255, 124513.
 
 
 
@@ -194,101 +194,101 @@ If you find this repository helpful for your research, please cite our paper.
 ### 2. Eigenvector-based Ranking Methods
 #### 2.1 Eigenvector centrality
 
-- Bonacich, P. Factoring and weighting approaches to clique identification. J. Math. Sociol. 1971, 92, 1170-82.
+- Bonacich, P. Factoring and weighting approaches to clique identification.]('')  J. Math. Sociol. 1971, 92, 1170-82.
 
--  Bonacich, P. Some unique properties of eigenvector centrality. Soc. Netw. 2007, 29, 555-64.
+-  Bonacich, P. Some unique properties of eigenvector centrality.]('')  Soc. Netw. 2007, 29, 555-64.
 
-- Ilyas, M. U.; Radha, H. Identifying influential nodes in online social networks using principal component centrality. In: 2011 IEEE International Conference on Communications. IEEE; 2011. pp. 1-5.
+- Ilyas, M. U.; Radha, H. Identifying influential nodes in online social networks using principal component centrality.]('')  In: 2011 IEEE International Conference on Communications. IEEE; 2011. pp. 1-5.
 
--  Estrada, E.; Rodríguez-Velázquez, J. A. Subgraph centrality in complex networks. Phys. Rev. E. 2005, 71, 056103.
+-  Estrada, E.; Rodríguez-Velázquez, J. A. Subgraph centrality in complex networks.]('')  Phys. Rev. E. 2005, 71, 056103.
 
-- Ahajjam, S.; El Haddad, M.; Badir, H. LeadersRank: towards a new approach for community detection in social networks. In: 2015 IEEE/ACS 12th International Conference of Computer Systems and Applications; 2015. pp. 1-8.
+- Ahajjam, S.; El Haddad, M.; Badir, H. LeadersRank: towards a new approach for community detection in social networks.]('')  In: 2015 IEEE/ACS 12th International Conference of Computer Systems and Applications; 2015. pp. 1-8.
 
-- Martin, T.; Zhang, X.; Newman, M. E. Localization and centrality in networks. Phys. Rev. E. 2014, 90, 052808.
+- Martin, T.; Zhang, X.; Newman, M. E. Localization and centrality in networks.]('')  Phys. Rev. E. 2014, 90, 052808.
 
-- Zhong, L.; Shang, M.; Chen, X.; Cai, S. M. Identifying the influential nodes via eigencentrality from the differences and similarities of structure. Phys. A. 2018, 510, 77-82.
+- Zhong, L.; Shang, M.; Chen, X.; Cai, S. M. Identifying the influential nodes via eigencentrality from the differences and similarities of structure.]('')  Phys. A. 2018, 510, 77-82.
 
 
 #### 2.2 Katz centrality
-- Katz, L. A new status index derived from sociometric analysis. Psychometrika 1953, 18, 39-43.
+- Katz, L. A new status index derived from sociometric analysis.]('')  Psychometrika 1953, 18, 39-43.
 
-- Zhang, Y.; Bao, Y.; Zhao, S.; Chen, J.; Tang, J. Identifying node importance by combining betweenness centrality and katz centrality. In: 2015 International Conference on Cloud Computing and Big Data; 2015. pp. 354-57.
+- Zhang, Y.; Bao, Y.; Zhao, S.; Chen, J.; Tang, J. Identifying node importance by combining betweenness centrality and katz centrality.]('')  In: 2015 International Conference on Cloud Computing and Big Data; 2015. pp. 354-57.
 
 #### 2.3 PageRank algorithm
--  Page, L.; Brin, S.; Motwani, R.; Winograd, T. The pagerank citation ranking: bring order to the web. Stanford University; 1998. Available from: http://ilpubs.stanford.edu:8090/422/[Last accessed on 10 Jul 2025].
+-  Page, L.; Brin, S.; Motwani, R.; Winograd, T. [The pagerank citation ranking: bring order to the web.]('http://ilpubs.stanford.edu:8090/422/')  Stanford University; 1998..
 
-- Yang, Y.; Xie, G.; Xie, J. Mining important nodes in directed weighted complex networks. Discrete. Dyn. Nat. Soc. 2017, 2017, 9741824.
+- Yang, Y.; Xie, G.; Xie, J. Mining important nodes in directed weighted complex networks. Discrete.]('') Dyn. Nat. Soc. 2017, 2017, 9741824.
 
--  Chinchi, H.; Yian, L.; Wenhao, C.; Minghan, F.; Shoude, L. Unsupervised ranking using graph structures and node attributes. In Proceedings of the tenth ACM International Conference on Web Search and Data Mining; 2017. pp. 771-79.
+-  Chinchi, H.; Yian, L.; Wenhao, C.; Minghan, F.; Shoude, L. Unsupervised ranking using graph structures and node attributes.]('') In Proceedings of the tenth ACM International Conference on Web Search and Data Mining; 2017. pp. 771-79.
 
--  Sheng, J.; Zhu, J.; Wang, Y.; Wang, B.; Hou, Z. Identifying influential nodes of complex networks based on trust-value. Algorithms 2020, 13, 280.
+-  Sheng, J.; Zhu, J.; Wang, Y.; Wang, B.; Hou, Z. Identifying influential nodes of complex networks based on trust-value.]('') Algorithms 2020, 13, 280.
 
-- Su, Q.; Chen, C.; Sun, Z.; Li, J. Identification of critical nodes for cascade faults of grids based on electrical PageRank. Glob. Energy. Interconnect. 2021, 4, 587-95.
+- Su, Q.; Chen, C.; Sun, Z.; Li, J. Identification of critical nodes for cascade faults of grids based on electrical PageRank.]('') Glob. Energy. Interconnect. 2021, 4, 587-95.
 
 #### 2.4 Voting mechanism
-- Lü, L.; Zhang, Y. C.; Yeung, C. H.; Zhou, T. Leaders in social networks, the delicious case. PLoS. One. 2011, 6, e21202.
+- Lü, L.; Zhang, Y. C.; Yeung, C. H.; Zhou, T. Leaders in social networks, the delicious case.]('') PLoS. One. 2011, 6, e21202.
 
  
--  Li, Q.; Zhou, T.; Lü, L.; Chen, D. Identifying influential spreaders by weighted LeaderRank. Phys. A. 2014, 404, 47-55.
+-  Li, Q.; Zhou, T.; Lü, L.; Chen, D. Identifying influential spreaders by weighted LeaderRank.]('') Phys. A. 2014, 404, 47-55.
 
--  Zhang, J.; Chen, D.; Dong, Q.; Zhao, Z. Identifying a set of influential spreaders in complex networks. Sci. Rep. 2016, 6, 27823.
+-  Zhang, J.; Chen, D.; Dong, Q.; Zhao, Z. Identifying a set of influential spreaders in complex networks.]('') Sci. Rep. 2016, 6, 27823.
 
  
-- Kumar, S.; Panda, B. S. Identifying influential nodes in social networks: neighborhood Coreness based voting approach. Phys. A. 2020, 553, 124215.
+- Kumar, S.; Panda, B. S. Identifying influential nodes in social networks: neighborhood Coreness based voting approach.]('') Phys. A. 2020, 553, 124215.
 
-- Sun, H.; Chen, D.; He, J.; Ch'ng, E. A voting approach to uncover multiple influential spreaders on weighted networks. Phys. A. 2019, 519, 303-12.
+- Sun, H.; Chen, D.; He, J.; Ch'ng, E. A voting approach to uncover multiple influential spreaders on weighted networks.]('') Phys. A. 2019, 519, 303-12.
 
--  Li, Y.; Yang, X.; Zhang, X.; Xi, M.; Lai, X. An improved voterank algorithm to identifying a set of influential spreaders in complex networks. Front. Phys. 2022, 10, 955727.
+-  Li, Y.; Yang, X.; Zhang, X.; Xi, M.; Lai, X. An improved voterank algorithm to identifying a set of influential spreaders in complex networks.]('') Front. Phys. 2022, 10, 955727.
 
-- Liu, J.; Xiong, Q.; Shi, W.; Shi, X.; Wang, K. Evaluating the importance of nodes in complex networks. Phys. A. 2016, 452, 209-19.
+- Liu, J.; Xiong, Q.; Shi, W.; Shi, X.; Wang, K. Evaluating the importance of nodes in complex networks.]('') Phys. A. 2016, 452, 209-19.
 
 
 
 ### 3. Path-Based Ranking Methods
 #### 3.1 Betweenness centrality
-- Freeman, L. C. A set of measures of centrality based on betweenness. Sociometry 1977, 40, 35-41.
+- Freeman, L. C. A set of measures of centrality based on betweenness.]('') Sociometry 1977, 40, 35-41.
 
--  Hage, P.; Harary, F. Eccentricity and centrality in networks. Soc. Netw. 1995, 17, 57-63.
+-  Hage, P.; Harary, F. Eccentricity and centrality in networks.]('') Soc. Netw. 1995, 17, 57-63.
 
-- Boccaletti, S.; Latora, V.; Moreno, Y.; Chavez, M.; Hwang, D. U. Complex networks: structure and dynamics. Phys. Rep. 2006, 424, 175-308.
+- Boccaletti, S.; Latora, V.; Moreno, Y.; Chavez, M.; Hwang, D. U. Complex networks: structure and dynamics.]('') Phys. Rep. 2006, 424, 175-308.
 
--  Lü, Z.; Zhao, N.; Xiong, F.; Chen, N. A novel measure of identifying influential nodes in complex networks. Phys. A. 2019, 523, 488-97.
+-  Lü, Z.; Zhao, N.; Xiong, F.; Chen, N. A novel measure of identifying influential nodes in complex networks.]('') Phys. A. 2019, 523, 488-97.
 
-- Song, Z.; Duan, H.; Ge, Y.; Qiu, X. A novel measure of centrality based on betweenness. In 2015 Chinese Automation Congress; 2015. pp. 174-78.
+- Song, Z.; Duan, H.; Ge, Y.; Qiu, X. A novel measure of centrality based on betweenness.]('') In 2015 Chinese Automation Congress; 2015. pp. 174-78.
 
--  Ventresca, M.; Aleman, D. Efficiently identifying critical nodes in large complex networks. Comput. Soc. Netw. 2015, 2, 1-16.
+-  Ventresca, M.; Aleman, D. Efficiently identifying critical nodes in large complex networks. Comput.]('') Soc. Netw. 2015, 2, 1-16.
 
-- Zhang, J.; Xu, X.; Li, P.; Zhang, K.; Small, M. Node importance for dynamical process on networks: a multiscale characterization. Chaos 2011, 21.
+- Zhang, J.; Xu, X.; Li, P.; Zhang, K.; Small, M. Node importance for dynamical process on networks: a multiscale characterization.]('') Chaos 2011, 21.
 
-- Yang, D.; Sun, Y.; Zhou, B.; Gao, X.; Zhang, H. Critical nodes identification of complex power systems based on electric cactus structure. IEEE. Syst. J. 2020, 14, 4477-88.
+- Yang, D.; Sun, Y.; Zhou, B.; Gao, X.; Zhang, H. Critical nodes identification of complex power systems based on electric cactus structure.]('') IEEE. Syst. J. 2020, 14, 4477-88.
 
--  Kianian, S.; Rostamnia, M. An efficient path-based approach for influence maximization in social networks. Expert. Syst. Appl. 2021, 167, 114168.
+-  Kianian, S.; Rostamnia, M. An efficient path-based approach for influence maximization in social networks.]('') Expert. Syst. Appl. 2021, 167, 114168.
 
--  Xiao, Y.; Chen, Y.; Zhang, H.; et al. A new semi-local centrality for identifying influential nodes based on local average shortest path with extended neighborhood. Artif. Intell. Rev. 2024, 57, 115.
+-  Xiao, Y.; Chen, Y.; Zhang, H.; et al. A new semi-local centrality for identifying influential nodes based on local average shortest path with extended neighborhood.]('') Artif. Intell. Rev. 2024, 57, 115.
 
 
 
 #### 3.2 Closeness centrality
-- Freeman, L. C. Centrality in social networks: Conceptual clarification. Soc. Netw. 2002, 1, 238-63.
+- Freeman, L. C. Centrality in social networks: Conceptual clarification. ]('')Soc. Netw. 2002, 1, 238-63.
 
-- Latora, V.; Marchiori, M. Efficient behavior of small-world networks. Phys. Rev. Lett. 2001, 87, 198701.
+- Latora, V.; Marchiori, M. Efficient behavior of small-world networks.]('') Phys. Rev. Lett. 2001, 87, 198701.
 
  
--  Salavati, C.; Abdollahpouri, A.; Manbari, Z. Ranking nodes in complex networks based on local structure and improving closeness centrality. Neurocomputing 2019, 336, 36-45.
+-  Salavati, C.; Abdollahpouri, A.; Manbari, Z. Ranking nodes in complex networks based on local structure and improving closeness centrality.]('') Neurocomputing 2019, 336, 36-45.
 
--  Okamoto, K.; Chen, W.; Li, X. Ranking of closeness centrality for large-scale social networks. In Proceedings of the 2nd Annual International Workshop on Frontiers in Algorithmics. Heidelberg: Springer-Verlag; 2008. p. 186-95.
+-  Okamoto, K.; Chen, W.; Li, X. Ranking of closeness centrality for large-scale social networks.]('') In Proceedings of the 2nd Annual International Workshop on Frontiers in Algorithmics. Heidelberg: Springer-Verlag; 2008. p. 186-95.
 
-- Sheng, J.; Dai, J.; Wang, B.; et al. Identifying influential nodes in complex networks based on global and local structure. Phys. A. 2020, 541, 123262.
+- Sheng, J.; Dai, J.; Wang, B.; et al. Identifying influential nodes in complex networks based on global and local structure.]('') Phys. A. 2020, 541, 123262.
 
 
 
 
 #### 3.3 Random walk
-- Iannelli, F.; Mariani, M. S.; Sokolov, I. M. Influencers identification in complex networks through reaction-diffusion dynamics. Phys. Rev. E. 2018, 98, 062302.
+- Iannelli, F.; Mariani, M. S.; Sokolov, I. M. Influencers identification in complex networks through reaction-diffusion dynamics.]('') Phys. Rev. E. 2018, 98, 062302.
 
-- Dong, J.; Ye, F.; Chen, W.; Wu, J. Identifying influential nodes in complex networks via semi-local centrality. In 2018 IEEE International Symposium on Circuits and Systems; 2018. pp. 1-5.
+- Dong, J.; Ye, F.; Chen, W.; Wu, J. Identifying influential nodes in complex networks via semi-local centrality.]('') In 2018 IEEE International Symposium on Circuits and Systems; 2018. pp. 1-5.
 
-- Kermarrec, A. M.; Le Merrer, E.; Sericola, B.; Trédan, G. Second order centrality: distributed assessment of nodes criticity in complex networks. Comput. Commun. 2011, 34, 619-28.
+- Kermarrec, A. M.; Le Merrer, E.; Sericola, B.; Trédan, G. Second order centrality: distributed assessment of nodes criticity in complex networks.]('') Comput. Commun. 2011, 34, 619-28.
 
 
  
@@ -300,7 +300,7 @@ If you find this repository helpful for your research, please cite our paper.
 
 
 #### 4.1 Network control
-- Li, X.; Wang, X. Controlling the spreading in small-world evolving networks: stability, oscillation, and topology. IEEE. Trans. Autom. Control. 2006, 51, 534-40.
+- Li, X.; Wang, X. Controlling the spreading in small-world evolving networks: stability, oscillation, and topology.]('') IEEE. Trans. Autom. Control. 2006, 51, 534-40.
 
 -  Ghosh, D.; Frasca, M.; Rizzo, A.; et al. The synchronized dynamics of time-varying networks. Phys. Rep. 2022, 949, 1-63.
 
