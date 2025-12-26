@@ -211,12 +211,12 @@ Enjoy it Below:
 
 
 #### 2.2 Katz centrality
-- Katz, L. A new status index derived from sociometric analysis.()  Psychometrika 1953, 18, 39-43.
+- Katz, L. A new status index derived from sociometric analysis.(http://dx.doi.org/10.1007/BF02289026)  Psychometrika 1953, 18, 39-43.
 
-- Zhang, Y.; Bao, Y.; Zhao, S.; Chen, J.; Tang, J. Identifying node importance by combining betweenness centrality and katz centrality.()  In: 2015 International Conference on Cloud Computing and Big Data; 2015. pp. 354-57.
+- Zhang, Y.; Bao, Y.; Zhao, S.; Chen, J.; Tang, J. Identifying node importance by combining betweenness centrality and katz centrality.(http://dx.doi.org/10.1109/CCBD.2015.19)  In: 2015 International Conference on Cloud Computing and Big Data; 2015. pp. 354-57.
 
 #### 2.3 PageRank algorithm
--  Page, L.; Brin, S.; Motwani, R.; Winograd, T. [The pagerank citation ranking: bring order to the web.(http://ilpubs.stanford.edu:8090/422/)  Stanford University; 1998..
+-  Page, L.; Brin, S.; Motwani, R.; Winograd, T.  The pagerank citation ranking: bring order to the web.(http://ilpubs.stanford.edu:8090/422/)  Stanford University; 1998..
 
 - Yang, Y.; Xie, G.; Xie, J. Mining important nodes in directed weighted complex networks. Discrete.(http://dx.doi.org/10.1155/2017/9741824) Dyn. Nat. Soc. 2017, 2017, 9741824.
 
