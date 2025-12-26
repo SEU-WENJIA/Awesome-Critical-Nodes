@@ -512,81 +512,81 @@ Enjoy it Below:
 
 -  Keikha, M. M.; Rahgozar, M.; Asadpour, M.; Abdollahi, M. F. Influence maximization across heterogeneous interconnected networks based on deep learning.() Expert. Syst. Appl. 2020, 140, 112905.
 
--  Bouyer, A.; Beni, H. A.; Oskouei, A. G.; et al. Maximizing influence in social networks using combined local features and deep learning-based node embedding.() Big. Data. 2024.
+-  Bouyer, A.; Beni, H. A.; Oskouei, A. G.; et al. Maximizing influence in social networks using combined local features and deep learning-based node embedding.(http://dx.doi.org/10.1089/big.2023.0117) Big. Data. 2024.
 
--  Wu, Y.; Hu, Y.; Yin, S.; et al. A graph convolutional network model based on regular equivalence for identifying influential nodes in complex networks.() Knowl. Based. Syst. 2024, 301, 112235.
+-  Wu, Y.; Hu, Y.; Yin, S.; et al. A graph convolutional network model based on regular equivalence for identifying influential nodes in complex networks.(http://dx.doi.org/10.1016/j.knosys.2024.112235) Knowl. Based. Syst. 2024, 301, 112235.
 
-- Ahmad, W.; Wang, B.; Chen, S. Learning to rank influential nodes in complex networks via convolutional neural networks.() Appl. Intell. 2024, 54, 3260-78.
+- Ahmad, W.; Wang, B.; Chen, S. Learning to rank influential nodes in complex networks via convolutional neural networks.(http://dx.doi.org/10.1007/s10489-024-05336-x) Appl. Intell. 2024, 54, 3260-78.
 
--  Rashid, Y.; Bhat, J. I. OlapGN: a multi-layered graph convolution network-based model for locating influential nodes in graph networks.() Knowl. Based. Syst. 2024, 283, 111163.
+-  Rashid, Y.; Bhat, J. I. OlapGN: a multi-layered graph convolution network-based model for locating influential nodes in graph networks.(http://dx.doi.org/10.1016/j.knosys.2023.111163) Knowl. Based. Syst. 2024, 283, 111163.
 
-- Xiong, Y.; Hu, Z.; Su, C.; Cai, S. M.; Zhou, T. Vital node identification in complex networks based on autoencoder and graph neural network.() Appl. Soft. Comput. 2024, 163, 111895.
+- Xiong, Y.; Hu, Z.; Su, C.; Cai, S. M.; Zhou, T. Vital node identification in complex networks based on autoencoder and graph neural network.(http://dx.doi.org/10.1016/j.asoc.2024.111895) Appl. Soft. Comput. 2024, 163, 111895.
 
--  Yu, E.; Wang, Y.; Fu, Y.; Chen, D.; Xie, M. Identifying critical nodes in complex networks via graph convolutional networks.() Knowl. Based. Syst. 2020, 198, 105893.
+-  Yu, E.; Wang, Y.; Fu, Y.; Chen, D.; Xie, M. Identifying critical nodes in complex networks via graph convolutional networks.(http://dx.doi.org/10.1016/j.knosys.2020.105893) Knowl. Based. Syst. 2020, 198, 105893.
 
 
 #### 5.5 Graph attention network
-- Park, N.; Kan, A.; Dong, X. L.; Zhao, T.; Faloutsos, C. Estimating node importance in knowledge graphs using graph neural networks.() In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2019. pp. 596-606.
+- Park, N.; Kan, A.; Dong, X. L.; Zhao, T.; Faloutsos, C. Estimating node importance in knowledge graphs using graph neural networks.(http://dx.doi.org/10.1145/3292500.3330855) In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2019. pp. 596-606.
 
--  Park, N.; Kan, A.; Dong, X. L.; Zhao, T.; Faloutsos, C. Multiimport: inferring node importance in a knowledge graph from multiple input signals.() In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2020. pp. 503-12.
+-  Park, N.; Kan, A.; Dong, X. L.; Zhao, T.; Faloutsos, C. Multiimport: inferring node importance in a knowledge graph from multiple input signals.(http://dx.doi.org/10.1145/3394486.3403093) In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2020. pp. 503-12.
 
-- Munikoti, S.; Das, L.; Natarajan, B. Scalable graph neural network-based framework for identifying critical nodes and links in complex networks.() Neurocomputing 2022, 468, 211-21.
+- Munikoti, S.; Das, L.; Natarajan, B. Scalable graph neural network-based framework for identifying critical nodes and links in complex networks.(http://dx.doi.org/10.1016/j.neucom.2021.10.031) Neurocomputing 2022, 468, 211-21.
 
-- Ge, K.; Han, Q. B. Node importance estimation for knowledge graphs based on multi-perspectives attention fusion mechanism.() Int. J. Pattern. Recognit. Artif. Intell. 2024, 38, 2459017.
+- Ge, K.; Han, Q. B. Node importance estimation for knowledge graphs based on multi-perspectives attention fusion mechanism.(http://dx.doi.org/10.1142/S0218001424590171) Int. J. Pattern. Recognit. Artif. Intell. 2024, 38, 2459017.
 
-- Chen, X.; Lei, P. I.; Sheng, Y.; Liu, Y.; Gong, Z. Social influence learning for recommendation systems.() In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management; 2024. pp. 312-22.
+- Chen, X.; Lei, P. I.; Sheng, Y.; Liu, Y.; Gong, Z. Social influence learning for recommendation systems.(http://dx.doi.org/10.1145/3616855) In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management; 2024. pp. 312-22.
 
-- Liu, Z.; Qiu, H.; Guo, W.; Zhu, J.; Wang, Q. NIE-GAT: node importance evaluation method for inter-domain routing network based on graph attention network.() J. Comput. Sci. 2022, 65, 101885.
+- Liu, Z.; Qiu, H.; Guo, W.; Zhu, J.; Wang, Q. NIE-GAT: node importance evaluation method for inter-domain routing network based on graph attention network.(http://dx.doi.org/10.1016/j.jocs.2022.101885) J. Comput. Sci. 2022, 65, 101885.
 
--  Kou, J.; Jia, P.; Liu, J.; Dai, J.; Luo, H. Identify influential nodes in social networks with graph multi-head attention regression model.() Neurocomputing 2023, 530, 23-36.
+-  Kou, J.; Jia, P.; Liu, J.; Dai, J.; Luo, H. Identify influential nodes in social networks with graph multi-head attention regression model.(http://dx.doi.org/10.1016/j.neucom.2023.01.078) Neurocomputing 2023, 530, 23-36.
 
 #### 5.6 Graph contrast learning
--  Liu, L.; Zeng, W.; Tan, Z.; Xiao, W.; Zhao, X. Node importance estimation with multiview contrastive representation learning.() Int. J. Intell. Syst. 2023, 2023, 5917750.
+-  Liu, L.; Zeng, W.; Tan, Z.; Xiao, W.; Zhao, X. Node importance estimation with multiview contrastive representation learning.(http://dx.doi.org/10.1155/2023/5917750) Int. J. Intell. Syst. 2023, 2023, 5917750.
 
--  Zhang, T.; Hou, C.; Jiang, R.; et al. Label informed contrastive pretraining for node importance estimation on knowledge graphs.() IEEE. Trans. Neural. Networks. Learn. Syst. 2025, 36, 4462-76.
+-  Zhang, T.; Hou, C.; Jiang, R.; et al. Label informed contrastive pretraining for node importance estimation on knowledge graphs.(http://dx.doi.org/10.1109/TNNLS.2024.3363695) IEEE. Trans. Neural. Networks. Learn. Syst. 2025, 36, 4462-76.
 
--  Shu, J.; Zou, Y.; Cui, H.; Liu, L. Node importance evaluation in heterogeneous network based on attention mechanism and graph contrastive learning.() Neurocomputing 2025, 626, 129555.
+-  Shu, J.; Zou, Y.; Cui, H.; Liu, L. Node importance evaluation in heterogeneous network based on attention mechanism and graph contrastive learning.(http://dx.doi.org/10.1016/j.neucom.2025.129555) Neurocomputing 2025, 626, 129555.
 
 #### 5.7 Graph neural networks
-- Huang, C.; Fang, Y.; Lin, X.; et al. Estimating node importance values in heterogeneous information networks.() In: 2022 IEEE 38th International Conference on Data Engineering; 2022. pp. 846-58.
+- Huang, C.; Fang, Y.; Lin, X.; et al. Estimating node importance values in heterogeneous information networks.(http://dx.doi.org/10.1109/icde53745.2022.00068) In: 2022 IEEE 38th International Conference on Data Engineering; 2022. pp. 846-58.
 
-- Chen, Y.; Fang, Y.; Wang, Q.; Cao, X.; King, I. Deep structural knowledge exploitation and synergy for estimating node importance value on heterogeneous information networks.() In: Proceedings of the AAAI Conference on Artificial Intelligence; 2024. pp. 8302-10.
+- Chen, Y.; Fang, Y.; Wang, Q.; Cao, X.; King, I. Deep structural knowledge exploitation and synergy for estimating node importance value on heterogeneous information networks.(http://dx.doi.org/10.1016/j.physa.2023.129194) In: Proceedings of the AAAI Conference on Artificial Intelligence; 2024. pp. 8302-10.
 
--  Lin, X.; Zhang, T.; Hou, C.; et al. Node importance estimation leveraging LLMs for semantic augmentation in knowledge graphs.() arXiv 2024.
+-  Lin, X.; Zhang, T.; Hou, C.; et al. Node importance estimation leveraging LLMs for semantic augmentation in knowledge graphs.(http://dx.doi.org/10.48550/arXiv.2412.00478) arXiv 2024.
 
--  Zhao, X.; Yu, H.; Huang, R.; et al. A novel higher-order neural network framework based on motifs attention for identifying critical nodes.() Phys. A. 2023, 629, 129194.
+-  Zhao, X.; Yu, H.; Huang, R.; et al. A novel higher-order neural network framework based on motifs attention for identifying critical nodes.(http://dx.doi.org/10.1016/j.physa.2023.129194) Phys. A. 2023, 629, 129194.
 
-- Michos, I.; Neocleous, K.; Papadopoulou Lesta, V. Critical node detection in sparse graphs using hopfield neural networks.() In Proceedings of the 13th Hellenic Conference on Artificial Intelligence; 2024. pp. 1-4.
+- Michos, I.; Neocleous, K.; Papadopoulou Lesta, V. Critical node detection in sparse graphs using hopfield neural networks.(http://dx.doi.org/10.1145/3688671.3688752) In Proceedings of the 13th Hellenic Conference on Artificial Intelligence; 2024. pp. 1-4.
 
 
 #### 5.7 Reinforcement learning
 
--  Fan, C.; Zeng, L.; Sun, Y.; Liu, Y. Finding key players in complex networks through deep reinforcement learning.() Nat. Mach. Intell. 2020, 2, 317-24.
+-  Fan, C.; Zeng, L.; Sun, Y.; Liu, Y. Finding key players in complex networks through deep reinforcement learning.(http://dx.doi.org/10.1038/s42256-020-0177-2) Nat. Mach. Intell. 2020, 2, 317-24.
 
  
-- Tan, X.; Zhou, Y.; Zhou, M.; Fu, Z. Learning to detect critical nodes in sparse graphs via feature importance awareness.() IEEE. Trans. Autom. Sci. Eng. 2024, 22, 3772-82.
+- Tan, X.; Zhou, Y.; Zhou, M.; Fu, Z. Learning to detect critical nodes in sparse graphs via feature importance awareness.(http://dx.doi.org/10.1109/TASE.2024.3361592) IEEE. Trans. Autom. Sci. Eng. 2024, 22, 3772-82.
 
 -  Jaques, N.; Lazaridou, A.; Hughes, E.; et al. Social influence as intrinsic motivation for multi-agent deep reinforcement learning.(https://proceedings.mlr.press/v97/jaques19a.html) In: International Conference on Machine Learning; 2019. pp. 3040-49.
 
-- Chen, P.; Fan, W. Identifying critical nodes via link equations and deep reinforcement learning.() Neurocomputing 2023, 126871.
+- Chen, P.; Fan, W. Identifying critical nodes via link equations and deep reinforcement learning.(http://dx.doi.org/10.2139/ssrn.4410414) Neurocomputing 2023, 126871.
 
--  Li, H.; Xu, M.; Bhowmick, S. S.; et al. Disco: influence maximization meets network embedding and deep learning.() arXiv 2019.
+-  Li, H.; Xu, M.; Bhowmick, S. S.; et al. Disco: influence maximization meets network embedding and deep learning.(http://dx.doi.org/10.48550/arXiv.1906.07378) arXiv 2019.
 
--  Chen, T.; Yan, S.; Guo, J.; Wu, W. ToupleGDD: a fine-designed solution of influence maximization by deep reinforcement learning.() IEEE. Trans. Comput. Soc. Syst. 2023, 11, 2210-21.
+-  Chen, T.; Yan, S.; Guo, J.; Wu, W. ToupleGDD: a fine-designed solution of influence maximization by deep reinforcement learning.(http://dx.doi.org/10.1109/TCSS.2023.3272331) IEEE. Trans. Comput. Soc. Syst. 2023, 11, 2210-21.
 
--  Ling, C.; Jiang, J.; Wang, J.; et al. Deep graph representation learning and optimization for influence maximization.() arXiv 2023.
+-  Ling, C.; Jiang, J.; Wang, J.; et al. Deep graph representation learning and optimization for influence maximization.(https://doi.org/10.48550/arXiv.2305.02200) arXiv 2023.
 
--  Li, H.; Xu, M.; Bhowmick, S. S.; et al. PIANO: influence maximization meets deep reinforcement learning.() IEEE. Trans. Comput. Soc. Syst. 2022, 10, 1288-300.
+-  Li, H.; Xu, M.; Bhowmick, S. S.; et al. PIANO: influence maximization meets deep reinforcement learning.(http://dx.doi.org/10.1109/TCSS.2022.3164667) IEEE. Trans. Comput. Soc. Syst. 2022, 10, 1288-300.
 
--  Uthayasuriyan, A.; Chandran, G. H.; Kavvin, U. V.; Mahitha, S. H.; Jeyakumar, G. Adaptive hybridization of differential evolution and DQN-reinforcement learning to solve the influence maximization problem in social networks.() Int. J. Intell. Eng. Syst. 2024, 17, 109-25.
+-  Uthayasuriyan, A.; Chandran, G. H.; Kavvin, U. V.; Mahitha, S. H.; Jeyakumar, G. Adaptive hybridization of differential evolution and DQN-reinforcement learning to solve the influence maximization problem in social networks.(http://dx.doi.org/10.22266/ijies2024.0831.09) Int. J. Intell. Eng. Syst. 2024, 17, 109-25.
 
--  Li, F.; Xu, Z.; Cheng, D.; Wang, X. AdaRisk: risk-adaptive deep reinforcement learning for vulnerable nodes detection.() IEEE. Trans. Knowl. Data. Eng. 2024, 36, 5576-90.
+-  Li, F.; Xu, Z.; Cheng, D.; Wang, X. AdaRisk: risk-adaptive deep reinforcement learning for vulnerable nodes detection.(http://dx.doi.org/10.1109/TKDE.2024.3409869) IEEE. Trans. Knowl. Data. Eng. 2024, 36, 5576-90.
 
--  Xu, L.; Ma, L.; Lin, Q.; et al. Influence maximization in hypergraphs based on evolutionary deep reinforcement learning.() Inf. Sci. 2025, 698, 121764.
+-  Xu, L.; Ma, L.; Lin, Q.; et al. Influence maximization in hypergraphs based on evolutionary deep reinforcement learning.(http://dx.doi.org/10.1016/j.ins.2024.121764) Inf. Sci. 2025, 698, 121764.
 
--  Zhu, W.; Zhang, K.; Zhong, J.; Hou, C.; Ji, J. BiGDN: an end-to-end influence maximization framework based on deep reinforcement learning and graph neural networks.()Expert. Syst. Appl. 2025, 270, 126384.
+-  Zhu, W.; Zhang, K.; Zhong, J.; Hou, C.; Ji, J. BiGDN: an end-to-end influence maximization framework based on deep reinforcement learning and graph neural networks.(http://dx.doi.org/10.1016/j.eswa.2025.126384)Expert. Syst. Appl. 2025, 270, 126384.
 
--  Ahmad, W.; Wang, B. A learning-based influence maximization framework for complex networks via K-core hierarchies and reinforcement learning.() Expert. Syst. Appl. 2025, 259, 125393.
+-  Ahmad, W.; Wang, B. A learning-based influence maximization framework for complex networks via K-core hierarchies and reinforcement learning.(http://dx.doi.org/10.1016/j.eswa.2024.125393) Expert. Syst. Appl. 2025, 259, 125393.
 
 
 
