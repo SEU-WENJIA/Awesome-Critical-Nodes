@@ -311,135 +311,135 @@ Enjoy it Below:
  
 -  Ding, J.; Wen, C.; Li, G. Key node selection in minimum-cost control of complex networks.(http://dx.doi.org/10.1016/j.physa.2017.05.090) Phys. A. 2017, 486, 251-61.
 
--  Lu, J.; Liu, R.; Lou, J.; Liu, Y. Pinning stabilization of Boolean control networks via a minimum number of controllers.() IEEE. Trans. Cybern. 2019, 51, 373-81.
+-  Lu, J.; Liu, R.; Lou, J.; Liu, Y. Pinning stabilization of Boolean control networks via a minimum number of controllers.(http://dx.doi.org/10.1109/TCYB.2019.2944659) IEEE. Trans. Cybern. 2019, 51, 373-81.
 
  
-- Zhu, S.; Cao, J.; Lin, L.; Lam, J.; Azuma, S. I. Toward stabilizable large-scale Boolean networks by controlling the minimal set of nodes.() IEEE. Trans. Autom. Control. 2023, 69, 174-88.
+- Zhu, S.; Cao, J.; Lin, L.; Lam, J.; Azuma, S. I. Toward stabilizable large-scale Boolean networks by controlling the minimal set of nodes.(http://dx.doi.org/10.1109/TAC.2023.3269321) IEEE. Trans. Autom. Control. 2023, 69, 174-88.
 
-- Yu, W.; DeLellis, P.; Chen, G.; Di Bernardo, M.; Kurths, J. Distributed adaptive control of synchronization in complex networks.() IEEE. Trans. Autom. Control. 2012, 57, 2153-58.
+- Yu, W.; DeLellis, P.; Chen, G.; Di Bernardo, M.; Kurths, J. Distributed adaptive control of synchronization in complex networks.(http://dx.doi.org/10.1109/TAC.2012.2183190) IEEE. Trans. Autom. Control. 2012, 57, 2153-58.
 
--  Yu, W.; Chen, G.; Lu, J.; Kurths, J. Synchronization via pinning control on general complex networks.() SIAM. J. Control. Optim. 2013, 51, 1395-416.
+-  Yu, W.; Chen, G.; Lu, J.; Kurths, J. Synchronization via pinning control on general complex networks.(http://dx.doi.org/10.1109/TAC.2012.2183190) SIAM. J. Control. Optim. 2013, 51, 1395-416.
 
-- Ding, J.; Tan, P.; Lu, Y. Z. Optimizing the controllability index of directed networks with the fixed number of control nodes.() Neurocomputing 2016, 171, 1524-32.
+- Ding, J.; Tan, P.; Lu, Y. Z. Optimizing the controllability index of directed networks with the fixed number of control nodes.(http://dx.doi.org/10.1016/j.neucom.2015.07.102) Neurocomputing 2016, 171, 1524-32.
 
-- Amani, A. M.; Jalili, M.; Yu, X.; Stone, L. Finding the most influential nodes in pinning controllability of complex networks.() IEEE. Trans. Circuits. Syst. Ⅱ. 2017, 64, 685-89.
+- Amani, A. M.; Jalili, M.; Yu, X.; Stone, L. Finding the most influential nodes in pinning controllability of complex networks.(http://dx.doi.org/10.1109/TCSII.2016.2600295) IEEE. Trans. Circuits. Syst. Ⅱ. 2017, 64, 685-89.
 
-- Amani, A. M.; Jalili, M.; Yu, X.; Stone, L. Controllability of complex networks: choosing the best driver set.() Phys. Rev. E. 2018, 98, 030302.
+- Amani, A. M.; Jalili, M.; Yu, X.; Stone, L. Controllability of complex networks: choosing the best driver set.(http://dx.doi.org/10.1103/PhysRevE.98.030302) Phys. Rev. E. 2018, 98, 030302.
 
-- Liu, H.; Xu, X.; Lu, J. A.; Chen, G.; Zeng, Z. Optimizing pinning control of complex dynamical networks based on spectral properties of grounded Laplacian matrices.() IEEE. Trans. Syst. Man. Cyber. Syst. 2018, 51, 786-96.
+- Liu, H.; Xu, X.; Lu, J. A.; Chen, G.; Zeng, Z. Optimizing pinning control of complex dynamical networks based on spectral properties of grounded Laplacian matrices.(http://dx.doi.org/10.1109/TSMC.2018.2882620) IEEE. Trans. Syst. Man. Cyber. Syst. 2018, 51, 786-96.
 
-- Wang, W.; Ni, X.; Lai, Y.; Grebogi, C. Optimizing controllability of complex networks by minimum structural perturbations.() Phys. Rev. E. 2012, 85, 026115.
+- Wang, W.; Ni, X.; Lai, Y.; Grebogi, C. Optimizing controllability of complex networks by minimum structural perturbations.(http://dx.doi.org/10.1103/PhysRevE.85.026115) Phys. Rev. E. 2012, 85, 026115.
 
--  Bof, N.; Baggio, G.; Zampieri, S. On the role of network centrality in the controllability of complex networks.() IEEE. Trans. Control. Netw. Syst. 2016, 4, 643-53.
+-  Bof, N.; Baggio, G.; Zampieri, S. On the role of network centrality in the controllability of complex networks.(http://dx.doi.org/10.1109/TCNS.2016.2550862) IEEE. Trans. Control. Netw. Syst. 2016, 4, 643-53.
 
-- Zhou, J.; Yu, X.; Lu, J. A. Node importance in controlled complex networks.() IEEE. Trans. Circuits. Syst. Ⅱ. 2018, 66, 437-41.
+- Zhou, J.; Yu, X.; Lu, J. A. Node importance in controlled complex networks.(http://dx.doi.org/10.1109/tcsii.2018.2845940) IEEE. Trans. Circuits. Syst. Ⅱ. 2018, 66, 437-41.
 
--  Liu, H.; Wang, B.; Lu, J.; Li, Z. Node-set importance and optimization algorithm of nodes selection in complex networks based on pinning control. ()Acta. Phys. Sin. 2021, 70, 056401.
+-  Liu, H.; Wang, B.; Lu, J.; Li, Z. Node-set importance and optimization algorithm of nodes selection in complex networks based on pinning control. (http://dx.doi.org/10.7498/aps.70.20200872)Acta. Phys. Sin. 2021, 70, 056401.
 
-- Bomela, W.; Sebek, M.; Nagao, R.; et al. Finding influential nodes in networks using pinning control: centrality measures confirmed with electrochemical oscillators.() Chaos 2023, 33, 093128.
-
- 
--  Jiang, Q.; Zhou, J.; Li, B.; Liu, H.; Lu, J. A. Pinning synchronization of a complex network: nodes, edges and higher-order edges.() Europhys. Lett. 2024, 147, 61001.
-
--  Sun, G. Q.; He, R.; Hou, L. F.; et al. Optimal control of spatial diseases spreading in networked reaction-diffusion systems.() Phys. Rep. 2025, 1111, 1-64.
-
--  Zhang, H. T.; Chen, Z.; Mo, X. Effect of adding edges to consensus networks with directed acyclic graphs.() IEEE. Trans. Autom. Control. 2017, 62, 4891-97.
-
--  Mo, X.; Chen, Z.; Zhang, H. T. Effects of adding a reverse edge across a stem in a directed acyclic graph.() Automatica 2019, 103, 254-60.
-
--  Jiang, S.; Zhou, J.; Small, M.; Lu, J. A.; Zhang, Y. Searching for key cycles in a complex network.() Phys. Rev. Lett. 2023, 130, 187402.
+- Bomela, W.; Sebek, M.; Nagao, R.; et al. Finding influential nodes in networks using pinning control: centrality measures confirmed with electrochemical oscillators.(http://dx.doi.org/10.1063/5.0163899) Chaos 2023, 33, 093128.
 
  
-- Cao, H.; Zhang, H. T.; Xie, L. Synchronization acceleration of networked systems via edge addition to single-root weighted digraphs.() IEEE. Trans. Autom. Control. 2024, 70, 1730-44.
+-  Jiang, Q.; Zhou, J.; Li, B.; Liu, H.; Lu, J. A. Pinning synchronization of a complex network: nodes, edges and higher-order edges.(http://dx.doi.org/10.1209/0295-5075/147/6/61001) Europhys. Lett. 2024, 147, 61001.
 
-- Zhang, H. T.; Cao, H.; Chen, Z. A necessary and sufficient condition of an interfering reverse edge for a directed acyclic graph.() IEEE. Trans. Autom. Control. 2022, 67, 4885-91.
+-  Sun, G. Q.; He, R.; Hou, L. F.; et al. Optimal control of spatial diseases spreading in networked reaction-diffusion systems.(http://dx.doi.org/10.1016/j.physrep.2025.01.005) Phys. Rep. 2025, 1111, 1-64.
 
-- Gao, S.; Zhang, S.; Chen, X. Effects of adding edges on the consensus convergence rate of weighted directed chain networks.() IEEE. Trans. Autom. Control. 2025, 70, 4077-84.
+-  Zhang, H. T.; Chen, Z.; Mo, X. Effect of adding edges to consensus networks with directed acyclic graphs.(http://dx.doi.org/10.1109/TAC.2017.2692527) IEEE. Trans. Autom. Control. 2017, 62, 4891-97.
+
+-  Mo, X.; Chen, Z.; Zhang, H. T. Effects of adding a reverse edge across a stem in a directed acyclic graph.(http://dx.doi.org/10.1016/j.automatica.2019.02.020) Automatica 2019, 103, 254-60.
+
+-  Jiang, S.; Zhou, J.; Small, M.; Lu, J. A.; Zhang, Y. Searching for key cycles in a complex network.(http://dx.doi.org/10.1103/PhysRevLett.130.187402) Phys. Rev. Lett. 2023, 130, 187402.
+
+ 
+- Cao, H.; Zhang, H. T.; Xie, L. Synchronization acceleration of networked systems via edge addition to single-root weighted digraphs.(http://dx.doi.org/10.1109/TAC.2024.3466871) IEEE. Trans. Autom. Control. 2024, 70, 1730-44.
+
+- Zhang, H. T.; Cao, H.; Chen, Z. A necessary and sufficient condition of an interfering reverse edge for a directed acyclic graph.(http://dx.doi.org/10.1109/TAC.2022.3162548) IEEE. Trans. Autom. Control. 2022, 67, 4885-91.
+
+- Gao, S.; Zhang, S.; Chen, X. Effects of adding edges on the consensus convergence rate of weighted directed chain networks.(http://dx.doi.org/10.1109/TAC.2025.3527603) IEEE. Trans. Autom. Control. 2025, 70, 4077-84.
 
 #### 4.2 Maximization of connected Component optimization
 
-- Aringhieri, R.; Grosso, A.; Hosteins, P.; Scatamacchia, R. A general evolutionary framework for different classes of critical node problems. ()Eng. Appl. Artif. Intell. 2016, 55, 128-45.
+- Aringhieri, R.; Grosso, A.; Hosteins, P.; Scatamacchia, R. A general evolutionary framework for different classes of critical node problems. (http://dx.doi.org/10.1016/j.engappai.2016.06.010) Eng. Appl. Artif. Intell. 2016, 55, 128-45.
 
--  Alozie, G. U.; Arulselvan, A.; Akartunalı, K.; Pasiliao Jr, E. L. Efficient methods for the distance-based critical node detection problem in complex networks.() Comput. Oper. Res. 2021, 131, 105254.
+-  Alozie, G. U.; Arulselvan, A.; Akartunalı, K.; Pasiliao Jr, E. L. Efficient methods for the distance-based critical node detection problem in complex networks.(http://dx.doi.org/10.2139/ssrn.3783169) Comput. Oper. Res. 2021, 131, 105254.
 
-- Thulasiraman, K.; Swamy, M. N. S. Graphs:. theory. and. algorithms.() 2011.
+- Thulasiraman, K.; Swamy, M. N. S. Graphs:. theory. and. algorithms.(http://dx.doi.org/10.1002/9780470316335) 2011.
 
-- Boginski, V.; Commander, C. W. Identifying. critical. nodes. in. protein-protein. interaction. networks;.() 2008..
+- Boginski, V.; Commander, C. W. Identifying. critical. nodes. in. protein-protein. interaction. networks;.(http://dx.doi.org/10.1007/978-0-387-73305-6_10) 2008..
 
-- Karygiannis, A.; Antonakakis, E.; Apostolopoulos, A. Detecting critical nodes for MANET intrusion detection systems.() In Second International Workshop on Security, Privacy and Trust in Pervasive and Ubiquitous Computing; 2006. pp. 9-15.
+- Karygiannis, A.; Antonakakis, E.; Apostolopoulos, A. Detecting critical nodes for MANET intrusion detection systems.(http://dx.doi.org/10.1109/PERCOM.2006.1608660) In Second International Workshop on Security, Privacy and Trust in Pervasive and Ubiquitous Computing; 2006. pp. 9-15.
 
-- Arulselvan, A.; Commander, C. W.; Shylo, O.; Pardalos, P. M. Cardinality-constrained critical node detection problem.() Performance Models and Risk Management in Communications Systems; 2011, pp. 79-91.
+- Arulselvan, A.; Commander, C. W.; Shylo, O.; Pardalos, P. M. Cardinality-constrained critical node detection problem.(http://dx.doi.org/10.1007/978-1-4419-0534-5_4) Performance Models and Risk Management in Communications Systems; 2011, pp. 79-91.
 
-- Li, C.; Lin, S.; Shan, M. Finding influential mediators in social networks.() In Proceedings of the 20th International Conference Companion on World Wide Web; 2011, pp. 75-6.
+- Li, C.; Lin, S.; Shan, M. Finding influential mediators in social networks.(http://dx.doi.org/10.1145/1963192.196323) In Proceedings of the 20th International Conference Companion on World Wide Web; 2011, pp. 75-6.
 
-- Ventresca, M.; Harrison, K. R.; Ombuki-Berman, B. M. An experimental evaluation of multi-objective evolutionary algorithms for detecting critical nodes in complex networks. In European Conference on the Applications of Evolutionary Computation. Springer; 2015, pp. 164-76.
+- Ventresca, M.; Harrison, K. R.; Ombuki-Berman, B. M. An experimental evaluation of multi-objective evolutionary algorithms for detecting critical nodes in complex networks.(http://dx.doi.org/10.1007/978-3-319-16549-3%20I) In European Conference on the Applications of Evolutionary Computation. Springer; 2015, pp. 164-76.
 
-- Veremyev, A.; Boginski, V.; Pasiliao, E. L. Exact identification of critical nodes in sparse networks via new compact formulations.() Optim. Lett. 2014, 8, 1245-59.
+- Veremyev, A.; Boginski, V.; Pasiliao, E. L. Exact identification of critical nodes in sparse networks via new compact formulations.(http://dx.doi.org/10.1007/s11590-013-0666-x) Optim. Lett. 2014, 8, 1245-59.
 
--  Ren, T.; Li, Z.; Qi, Y.; et al. Identifying vital nodes based on reverse greedy method.() Sci. Rep. 2020, 10, 4826.
+-  Ren, T.; Li, Z.; Qi, Y.; et al. Identifying vital nodes based on reverse greedy method.(http://dx.doi.org/10.1038/s41598-020-61722-8) Sci. Rep. 2020, 10, 4826.
 
  
-- Wang, Y.; Cong, G.; Song, G.; Xie, K. Community-based greedy algorithm for mining top-k influential nodes in mobile social networks.() In Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2010. pp. 1039-48.
+- Wang, Y.; Cong, G.; Song, G.; Xie, K. Community-based greedy algorithm for mining top-k influential nodes in mobile social networks.(http://dx.doi.org/10.1145/1835804.1835935) In Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2010. pp. 1039-48.
 
--  Lam, C. Y.; Lin, J.; Sim, M. S.; Tai, K. Identifying vulnerabilities in critical infrastructures by network analysis.() Int. J. Crit. Infrastruct. 2013, 9, 190-210.
+-  Lam, C. Y.; Lin, J.; Sim, M. S.; Tai, K. Identifying vulnerabilities in critical infrastructures by network analysis.(http://dx.doi.org/10.1504/IJCIS.2013.054978) Int. J. Crit. Infrastruct. 2013, 9, 190-210.
 
-- Ventresca, M.; Aleman, D. A fast greedy algorithm for the critical node detection problem.() In: International Conference on Combinatorial Optimization and Applications. Springer; 2014. pp. 603-12.
+- Ventresca, M.; Aleman, D. A fast greedy algorithm for the critical node detection problem.(http://dx.doi.org/10.1007/978-3-319-12691-3) In: International Conference on Combinatorial Optimization and Applications. Springer; 2014. pp. 603-12.
 
--  Tang, J.; Zhang, R.; Wang, P.; et al. A discrete shuffled frog-leaping algorithm to identify influential nodes for influence maximization in social networks.() Knowl. Based. Syst. 2020, 187, 104833.
+-  Tang, J.; Zhang, R.; Wang, P.; et al. A discrete shuffled frog-leaping algorithm to identify influential nodes for influence maximization in social networks.(http://dx.doi.org/10.1016/j.knosys.2019.07.004) Knowl. Based. Syst. 2020, 187, 104833.
 
 
 #### 4.3 Minimization of pair Connectivity optimization
-- Di Summa, M.; Grosso, A.; Locatelli, M. Branch and cut algorithms for detecting critical nodes in undirected graphs.() Comput. Optim. Appl. 2012, 53, 649-80.
+- Di Summa, M.; Grosso, A.; Locatelli, M. Branch and cut algorithms for detecting critical nodes in undirected graphs.(http://dx.doi.org/10.1007/s10589-012-9458-y) Comput. Optim. Appl. 2012, 53, 649-80.
 
-- Arulselvan, A.; Commander, C. W.; Elefteriadou, L.; Pardalos, P. M. Detecting critical nodes in sparse graphs.() Comput. Oper. Res. 2009, 36, 2193-200.
+- Arulselvan, A.; Commander, C. W.; Elefteriadou, L.; Pardalos, P. M. Detecting critical nodes in sparse graphs.(http://dx.doi.org/10.1016/j.cor.2008.02.001) Comput. Oper. Res. 2009, 36, 2193-200.
 
-- Shen, Y.; Dinh, T. N.; Thai, M. T. Adaptive algorithms for detecting critical links and nodes in dynamic networks.() In: 2012 IEEE Military Communications Conference; 2012. pp. 1-6.
+- Shen, Y.; Dinh, T. N.; Thai, M. T. Adaptive algorithms for detecting critical links and nodes in dynamic networks.(http://dx.doi.org/10.1109/MILCOM.2012.6415629) In: 2012 IEEE Military Communications Conference; 2012. pp. 1-6.
 
-- Ventresca, M.; Aleman, D. A derandomized approximation algorithm for the critical node detection problem.() Comput. Oper. Res. 2014, 43, 261-70.
+- Ventresca, M.; Aleman, D. A derandomized approximation algorithm for the critical node detection problem.(http://dx.doi.org/10.1016/j.cor.2013.09.012) Comput. Oper. Res. 2014, 43, 261-70.
 
--  Dinh, T. N.; Thai, M. T. Assessing attack vulnerability in networks with uncertainty.() In: 2015 IEEE Conference on Computer Communications; 2015. pp. 2380-88.
+-  Dinh, T. N.; Thai, M. T. Assessing attack vulnerability in networks with uncertainty.(http://dx.doi.org/10.1109/INFOCOM.2015.7218626) In: 2015 IEEE Conference on Computer Communications; 2015. pp. 2380-88.
 
--  Sarker, S.; Veremyev, A.; Boginski, V.; Singh, A. Critical nodes in river networks.() Sci. Rep. 2019, 9, 11178.
+-  Sarker, S.; Veremyev, A.; Boginski, V.; Singh, A. Critical nodes in river networks.(http://dx.doi.org/10.1038/s41598-019-47292-4) Sci. Rep. 2019, 9, 11178.
 
  
--  Pullan, W. Heuristic identification of critical nodes in sparse real-world graphs.() J. Heuristics. 2015, 21, 577-98.
+-  Pullan, W. Heuristic identification of critical nodes in sparse real-world graphs.(http://dx.doi.org/10.1007/s10732-015-9290-5) J. Heuristics. 2015, 21, 577-98.
 
--  Addis, B.; Aringhieri, R.; Grosso, A.; Hosteins, P. Hybrid constructive heuristics for the critical node problem.() Ann. Oper. Res. 2016, 238, 637-49.
+-  Addis, B.; Aringhieri, R.; Grosso, A.; Hosteins, P. Hybrid constructive heuristics for the critical node problem.(http://dx.doi.org/10.1007/s10479-016-2110-y) Ann. Oper. Res. 2016, 238, 637-49.
 
-- Chen, W.; Jiang, M.; Jiang, C.; Zhang, J. Critical node detection problem for complex network in undirected weighted networks.() Phys. A. 2020, 538, 122862.
+- Chen, W.; Jiang, M.; Jiang, C.; Zhang, J. Critical node detection problem for complex network in undirected weighted networks.(http://dx.doi.org/10.1016/j.physa.2019.122862) Phys. A. 2020, 538, 122862.
 
--  Ventresca, M. Global search algorithms using a combinatorial unranking-based problem representation for the critical node detection problem.() Comput. Oper. Res. 2012, 39, 2763-75.
+-  Ventresca, M. Global search algorithms using a combinatorial unranking-based problem representation for the critical node detection problem.(http://dx.doi.org/10.1007/978-3-319-12691-3) Comput. Oper. Res. 2012, 39, 2763-75.
 
-- Shen, Y.; Nguyen, N. P.; Xuan, Y.; Thai, M. T. On the discovery of critical links and nodes for assessing network vulnerability.() IEEE/ACM. Trans. Netw. 2012, 21, 963-73.
+- Shen, Y.; Nguyen, N. P.; Xuan, Y.; Thai, M. T. On the discovery of critical links and nodes for assessing network vulnerability.(http://dx.doi.org/10.1109/TNET.2012.2215882) IEEE/ACM. Trans. Netw. 2012, 21, 963-73.
 
--  Ventresca, M.; Aleman, D. A region growing algorithm for detecting critical nodes.() In: International Conference on Combinatorial Optimization and Applications. Springer; 2014. pp. 593-602.
+-  Ventresca, M.; Aleman, D. A region growing algorithm for detecting critical nodes.(http://dx.doi.org/10.1007/978-3-319-12691-3) In: International Conference on Combinatorial Optimization and Applications. Springer; 2014. pp. 593-602.
 
-- Yin, H.; Hou, J.; Gong, C. A mixed strength decomposition method for identifying critical nodes by decomposing weighted social networks.() Europhys. Lett. 2023, 142, 61003.
+- Yin, H.; Hou, J.; Gong, C. A mixed strength decomposition method for identifying critical nodes by decomposing weighted social networks.(http://dx.doi.org/10.1209/0295-5075/acd9e8) Europhys. Lett. 2023, 142, 61003.
 
--  Zhang, L.; Zhang, H.; Feng, X.; Yang, H.; Cheng, F. An evolutionary multitasking method for multi-objective critical node detection on interdependent networks.() IEEE. Trans. Cognit. Commun. Netw. 2025, 11, 607-20.
+-  Zhang, L.; Zhang, H.; Feng, X.; Yang, H.; Cheng, F. An evolutionary multitasking method for multi-objective critical node detection on interdependent networks.(http://dx.doi.org/10.1109/TCCN.2024.3427123) IEEE. Trans. Cognit. Commun. Netw. 2025, 11, 607-20.
 
--  Fortz, B.; Mycek, M.; Pióro, M.; Tomaszewski, A. Min-max optimization of node-targeted attacks in service networks.() Networks 2024, 83, 256-88.
+-  Fortz, B.; Mycek, M.; Pióro, M.; Tomaszewski, A. Min-max optimization of node-targeted attacks in service networks.(http://dx.doi.org/10.1002/net.22191) Networks 2024, 83, 256-88.
 
-- Jiang, W.; Li, P.; Li, T.; Fan, T.; Zhang, C. Identifying vital edges based on the cycle structure in complex networks.() Phys. Lett. A. 2025, 530, 130137.
+- Jiang, W.; Li, P.; Li, T.; Fan, T.; Zhang, C. Identifying vital edges based on the cycle structure in complex networks.(http://dx.doi.org/10.1016/j.physleta.2024.130137) Phys. Lett. A. 2025, 530, 130137.
 
-- Kouam, W.; Hayel, Y.; Deugoué, G.; Kamhoua, C. A novel centrality measure for analyzing lateral movement in complex networks.() Phys. A. 2025, 658, 130255.
+- Kouam, W.; Hayel, Y.; Deugoué, G.; Kamhoua, C. A novel centrality measure for analyzing lateral movement in complex networks.(http://dx.doi.org/10.1016/j.physa.2024.130255) Phys. A. 2025, 658, 130255.
 
-- Zhou, M.; Liu, H.; Liao, H.; Liu, G.; Mao, R. Finding the key nodes to minimize the victims of the malicious information in complex network.() Knowl. Based. Syst. 2024, 293, 111632.
+- Zhou, M.; Liu, H.; Liao, H.; Liu, G.; Mao, R. Finding the key nodes to minimize the victims of the malicious information in complex network.(http://dx.doi.org/10.1016/j.knosys.2024.111632) Knowl. Based. Syst. 2024, 293, 111632.
 
 
 
 #### 4.4 Minimum spanning tree
-- Zhao, J.; Liu, X.; Guo, J. Evaluation method for node importance of communication network based on complex network analysis.() In: Communications, Signal Processing, and Systems. Singapore: Springer; 2019.
+- Zhao, J.; Liu, X.; Guo, J. Evaluation method for node importance of communication network based on complex network analysis.(http://dx.doi.org/10.1007/978-981-13-6264-4_42) In: Communications, Signal Processing, and Systems. Singapore: Springer; 2019.
 
--  Di Summa, M.; Grosso, A.; Locatelli, M. Complexity of the critical node problem over trees.() Comput. Oper. Res. 2011, 38, 1766-74.
+-  Di Summa, M.; Grosso, A.; Locatelli, M. Complexity of the critical node problem over trees.(http://dx.doi.org/10.1016/j.cor.2011.02.016) Comput. Oper. Res. 2011, 38, 1766-74.
 
--  Hermelin, D.; Kaspi, M.; Komusiewicz, C.; Navon, B. Parameterized complexity of critical node cuts.() Theor. Comput. Sci. 2016, 651, 62-75.
+-  Hermelin, D.; Kaspi, M.; Komusiewicz, C.; Navon, B. Parameterized complexity of critical node cuts.(http://dx.doi.org/10.1016/j.tcs.2016.08.018) Theor. Comput. Sci. 2016, 651, 62-75.
 
--  Addis, B.; Di Summa, M.; Grosso, A. Identifying critical nodes in undirected graphs: complexity results and polynomial algorithms for the case of bounded treewidth.() Discrete. Appl. Math. 2013, 161, 2349-60.
+-  Addis, B.; Di Summa, M.; Grosso, A. Identifying critical nodes in undirected graphs: complexity results and polynomial algorithms for the case of bounded treewidth.(http://dx.doi.org/10.1016/j.dam.2013.03.021) Discrete. Appl. Math. 2013, 161, 2349-60.
 
--  Aringhieri, R.; Grosso, A.; Hosteins, P.; Scatamacchia, R. Local search metaheuristics for the critical node problem.() Networks 2016, 67, 209-21.
+-  Aringhieri, R.; Grosso, A.; Hosteins, P.; Scatamacchia, R. Local search metaheuristics for the critical node problem.(http://dx.doi.org/10.1002/net.21671) Networks 2016, 67, 209-21.
 
-145. Wang, H.; Shan, Z.; Ying, G.; et al. Evaluation method of node importance for power grid considering inflow and outflow power.() J. Mod. Power. Syst. Clean. Energy. 2017, 5, 696-703.
+145. Wang, H.; Shan, Z.; Ying, G.; et al. Evaluation method of node importance for power grid considering inflow and outflow power.(http://dx.doi.org/10.1007/s40565-016-0234-3) J. Mod. Power. Syst. Clean. Energy. 2017, 5, 696-703.
 
 
 ### 5. Machine learning-based Ranking Methods
@@ -447,70 +447,73 @@ Enjoy it Below:
 
 
 #### 5.1 Information entropy
-146. Nikolaev, A. G.; Razib, R.; Kucheriya, A. On efficient use of entropy centrality for social network analysis and community detection.() Soc. Netw. 2015, 40, 154-62.
+-  Nikolaev, A. G.; Razib, R.; Kucheriya, A. On efficient use of entropy centrality for social network analysis and community detection.(http://dx.doi.org/10.1016/j.socnet.2014.10.002) Soc. Netw. 2015, 40, 154-62.
 
-147. Zareie, A.; Sheikhahmadi, A.; Jalili, M. Influential node ranking in social networks based on neighborhood diversity.() Future. Gener. Comput. Syst. 2019, 94, 120-29.
+-   Zareie, A.; Sheikhahmadi, A.; Jalili, M. Influential node ranking in social networks based on neighborhood diversity.(http://dx.doi.org/10.1016/j.future.2018.11.023) Future. Gener. Comput. Syst. 2019, 94, 120-29.
 
-148. Nitt, G. Using mapping entropy to identify node centrality in complex networks.() Phys. A. 2016, 453, 290-97.
+-  Nitt, G. Using mapping entropy to identify node centrality in complex networks.(http://dx.doi.org/10.1016/j.physa.2016.02.009) Phys. A. 2016, 453, 290-97.
 
-149. Fu, Y. H.; Huang, C. Y.; Sun, C. T. Identifying super-spreader nodes in complex networks.() Math. Probl. Eng. 2015.
+-   Fu, Y. H.; Huang, C. Y.; Sun, C. T. Identifying super-spreader nodes in complex networks.(http://dx.doi.org/10.1155/2015/675713) Math. Probl. Eng. 2015.
 
- 
-150. Guo, C.; Yang, L.; Chen, X.; et al. Influential nodes identification in complex networks via information entropy.() Entropy 2020, 22, 242.
+-  Guo, C.; Yang, L.; Chen, X.; et al. Influential nodes identification in complex networks via information entropy.(http://dx.doi.org/10.3390/e22020242) Entropy 2020, 22, 242.
+  
+-  Xu, M.; Wu, J.; Liu, M.; et al. Discovery of critical nodes in road networks through mining from vehicle trajectories.(http://dx.doi.org/10.1109/tits.2018.2817282) IEEE. Trans. Intell. Trans. Syst. 2018, 20, 583-93.
 
-151. Xu, M.; Wu, J.; Liu, M.; et al. Discovery of critical nodes in road networks through mining from vehicle trajectories.() IEEE. Trans. Intell. Trans. Syst. 2018, 20, 583-93.
+-  Tulu, M. M.; Hou, R.; Younas, T. Identifying influential nodes based on community structure to speed up the dissemination of information in complex network.(http://dx.doi.org/10.1109/access.2018.2794324) IEEE. Access. 2018, 6, 7390-401.
 
--  Tulu, M. M.; Hou, R.; Younas, T. Identifying influential nodes based on community structure to speed up the dissemination of information in complex network.() IEEE. Access. 2018, 6, 7390-401.
+-  Ai, X. Node importance ranking of complex networks with entropy variation.(http://dx.doi.org/10.3390/e19070303) Entropy 2017, 19, 303.
 
--  Ai, X. Node importance ranking of complex networks with entropy variation.() Entropy 2017, 19, 303.
+-  Wu, Y.; Dong, A.; Ren, Y.; Jiang, Q. Identify influential nodes in complex networks: a k-orders entropy-based method.(http://dx.doi.org/10.1016/j.physa.2023.129302) Phys. A. 2023, 632, 129302.
 
--  Wu, Y.; Dong, A.; Ren, Y.; Jiang, Q. Identify influential nodes in complex networks: a k-orders entropy-based method.() Phys. A. 2023, 632, 129302.
+-  Tong, T.; Dong, Q.; Sun, J.; Jiang, Y. Vital spreaders identification synthesizing cross entropy and information entropy with kshell method.(http://dx.doi.org/10.1016/j.eswa.2023.119928) Expert. Syst. Appl. 2023, 224, 119928.
 
--  Tong, T.; Dong, Q.; Sun, J.; Jiang, Y. Vital spreaders identification synthesizing cross entropy and information entropy with kshell method.() Expert. Syst. Appl. 2023, 224, 119928.
-
-- Li, Y.; Cai, W.; Li, Y.; Du, X. Key node ranking in complex networks: a novel entropy and mutual information-based approach.() Entropy 2019, 22, 52.
+- Li, Y.; Cai, W.; Li, Y.; Du, X. Key node ranking in complex networks: a novel entropy and mutual information-based approach.(http://dx.doi.org/10.3390/e22010052) Entropy 2019, 22, 52.
 
 
 
 
 
 #### 5.2 Clustering coefficient
--  Chen, D. B.; Gao, H.; Lü, L.; Zhou, T. Identifying influential nodes in large-scale directed networks: the role of clustering.() PLoS. One. 2013, 8, e77455.
+-  Chen, D. B.; Gao, H.; Lü, L.; Zhou, T. Identifying influential nodes in large-scale directed networks: the role of clustering.(http://dx.doi.org/10.1016/j.physa.2024.129990) PLoS. One. 2013, 8, e77455.
 
  
--  Gao, S.; Ma, J.; Chen, Z.; Wang, G.; Xing, C. Ranking the spreading ability of nodes in complex networks based on local structure.() Phys. A. 2014, 403, 130-47.
-- Yang, L.; Song, Y.; Jiang, G. P.; Xia, L. L. Identifying influential spreaders based on diffusion K-truss decomposition.() Int. J. Mod. Phys. B. 2018, 32, 1850238.
+-  Gao, S.; Ma, J.; Chen, Z.; Wang, G.; Xing, C. Ranking the spreading ability of nodes in complex networks based on local structure.(http://dx.doi.org/10.1016/j.physa.2014.02.032) Phys. A. 2014, 403, 130-47.
+  
+- Yang, L.; Song, Y.; Jiang, G. P.; Xia, L. L. Identifying influential spreaders based on diffusion K-truss decomposition.(http://dx.doi.org/10.1142/S0217979218502387) Int. J. Mod. Phys. B. 2018, 32, 1850238.
 
-- Zareie, A.; Sheikhahmadi, A.; Jalili, M.; Fasaei, M. S. K. Finding influential nodes in social networks based on neighborhood correlation coefficient.() Knowl. Based. Syst. 2020, 194, 105580.
--  Dablander, F.; Hinne, M. Node centrality measures are a poor substitute for causal inference.() Sci. Rep. 2019, 9, 6846.
+- Zareie, A.; Sheikhahmadi, A.; Jalili, M.; Fasaei, M. S. K. Finding influential nodes in social networks based on neighborhood correlation coefficient.(http://dx.doi.org/10.1016/j.knosys.2020.105580) Knowl. Based. Syst. 2020, 194, 105580.
+  
+
+
+-  Dablander, F.; Hinne, M. Node centrality measures are a poor substitute for causal inference.(http://dx.doi.org/10.31234/osf.io/nue4z) Sci. Rep. 2019, 9, 6846.
 
  
-- Liu, Y.; Song, A.; Shan, X.; Xue, Y.; Jin, J. Identifying critical nodes in power networks: a group-driven framework.() Expert. Syst. Appl. 2022, 196, 116557.
+- Liu, Y.; Song, A.; Shan, X.; Xue, Y.; Jin, J. Identifying critical nodes in power networks: a group-driven framework.(http://dx.doi.org/10.1016/j.eswa.2022.116557) Expert. Syst. Appl. 2022, 196, 116557.
 
--  Wang, B.; Zhang, J.; Dai, J.; Sheng, J. Influential nodes identification using network local structural properties.() Sci. Rep. 2022, 12, 1833.
+-  Wang, B.; Zhang, J.; Dai, J.; Sheng, J. Influential nodes identification using network local structural properties.(http://dx.doi.org/10.1038/s41598-022-05564-6) Sci. Rep. 2022, 12, 1833.
 
  
-- Zhang, X.; Zhu, J.; Wang, Q.; Zhao, H. Identifying influential nodes in complex networks with community structure.() Knowl. Based. Syst. 2013, 42, 74-84.
+- Zhang, X.; Zhu, J.; Wang, Q.; Zhao, H. Identifying influential nodes in complex networks with community structure.(http://dx.doi.org/10.1016/j.knosys.2013.01.017) Knowl. Based. Syst. 2013, 42, 74-84.
 
 
 
 #### 5.3 Graph conventional network
--  Zhao, G.; Jia, P.; Zhou, A.; Zhang, B. InfGCN: identifying influential nodes in complex networks with graph convolutional networks.() Neurocomputing 2020, 414, 18-26.
+-  Zhao, G.; Jia, P.; Zhou, A.; Zhang, B. InfGCN: identifying influential nodes in complex networks with graph convolutional networks.(http://dx.doi.org/10.1109/access.2020.2984286) Neurocomputing 2020, 414, 18-26.
 
--  Kumar, S.; Mallik, A.; Khetarpal, A.; Panda, B. Influence maximization in social networks using graph embedding and graph neural network.() Inf. Sci. 2022, 607, 1617-36.
+-  Kumar, S.; Mallik, A.; Khetarpal, A.; Panda, B. Influence maximization in social networks using graph embedding and graph neural network.(http://dx.doi.org/10.1016/j.ins.2022.06.075) Inf. Sci. 2022, 607, 1617-36.
 
--  Ribeiro, L. F.; Saverese, P. H.; Figueiredo, D. R. struc2vec: learning node representations from structural identity.() In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2017. pp. 385-94.
+-  Ribeiro, L. F.; Saverese, P. H.; Figueiredo, D. R. struc2vec: learning node representations from structural identity.(http://dx.doi.org/10.1145/3097983.3098061) In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery & Data Mining; 2017. pp. 385-94.
 
--  Zhang, M.; Wang, X.; Jin, L.; Song, M.; Li, Z. A new approach for evaluating node importance in complex networks via deep learning methods.() Neurocomputing 2022, 497, 13-27.
+-  Zhang, M.; Wang, X.; Jin, L.; Song, M.; Li, Z. A new approach for evaluating node importance in complex networks via deep learning methods.(http://dx.doi.org/10.1016/j.neucom.2022.05.010) Neurocomputing 2022, 497, 13-27.
 
--  Liu, C.; Cao, T.; Zhou, L. Learning to rank complex network node based on the self-supervised graph convolution model.() Knowl. Based. Syst. 2022, 251, 109220.
+-  Liu, C.; Cao, T.; Zhou, L. Learning to rank complex network node based on the self-supervised graph convolution model.(http://dx.doi.org/10.1016/j.knosys.2022.109220) Knowl. Based. Syst. 2022, 251, 109220.
 
 
 
 #### 5.4 Graph embeddings
--  Wei, P.; Zhou, J.; Yan, B.; Zeng, Y. ENIMNR: enhanced node influence maximization through node representation in social networks.() Chaos. Soliton. Fract. 2024, 186, 115192.
+-  Wei, P.; Zhou, J.; Yan, B.; Zeng, Y. ENIMNR: enhanced node influence maximization through node representation in social networks.(http://dx.doi.org/10.1016/j.chaos.2024.115192) Chaos. Soliton. Fract. 2024, 186, 115192.
 
--  Keikha, M. M.; Rahgozar, M.; Asadpour, M.; Abdollahi, M. F. Influence maximization across heterogeneous interconnected networks based on deep learning.() Expert. Syst. Appl. 2020, 140, 112905.
+-  Keikha, M. M.; Rahgozar, M.; Asadpour, M.; Abdollahi, M. F. Influence maximization across heterogeneous interconnected networks based on deep learning.(http://dx.doi.org/10.1016/j.eswa.2019.112905) Expert. Syst. Appl. 2020, 140, 112905.
 
 -  Bouyer, A.; Beni, H. A.; Oskouei, A. G.; et al. Maximizing influence in social networks using combined local features and deep learning-based node embedding.(http://dx.doi.org/10.1089/big.2023.0117) Big. Data. 2024.
 
