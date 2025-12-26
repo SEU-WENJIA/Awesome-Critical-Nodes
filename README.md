@@ -710,12 +710,12 @@ Enjoy it Below:
 - Namtirtha, A.; Dutta, A.; Dutta, B.; Sundararajan, A.; Simmhan, Y. Best influential spreaders identification using network global structural properties. Sci. Rep. 2021, 11, 2254.
 
  
--  Ullah, A.; Wang, B.; Sheng, J.; et al. Identification of nodes influence based on global structure model in complex networks. Sci. Rep. 2021, 11, 6173.
+-  Ullah, A.; Wang, B.; Sheng, J.; et al. Identification of nodes influence based on global structure model in complex networks.() Sci. Rep. 2021, 11, 6173.
 
  
--  Ullah, A.; Wang, B.; Sheng, J.; et al. Identifying vital nodes from local and global perspectives in complex networks. Expert. Syst. Appl. 2021, 186, 115778.
+-  Ullah, A.; Wang, B.; Sheng, J.; et al. Identifying vital nodes from local and global perspectives in complex networks.() Expert. Syst. Appl. 2021, 186, 115778.
 
--  Hu, H.; Sun, Z.; Wang, F.; Zhang, L.; Wang, G. Exploring influential nodes using global and local information. Sci. Rep. 2022, 12, 22506.
+-  Hu, H.; Sun, Z.; Wang, F.; Zhang, L.; Wang, G. Exploring influential nodes using global and local information.() Sci. Rep. 2022, 12, 22506.
 
  
 -  Wang, F.; Sun, Z.; Gan, Q.; et al. Influential node identification by aggregating local structure information. Phys. A. 2022, 593, 126885.
