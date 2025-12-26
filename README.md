@@ -777,111 +777,111 @@ Enjoy it Below:
 - Lawyer, G. Understanding the influence of all nodes in a network.() Sci. Rep. 2015, 5, 8665.
 
  
-- Chen, X. Critical nodes identification in complex systems.() Complex. Intell. Syst. 2015, 1, 37-56.
+- Chen, X. Critical nodes identification in complex systems.(http://dx.doi.org/10.1007/s40747-015-0005-0) Complex. Intell. Syst. 2015, 1, 37-56.
 
--  Robinaugh, D. J.; Millner, A. J.; McNally, R. J. Identifying highly influential nodes in the complicated grief network.() J. Abnorm. Psychol. 2016, 125, 747.
-
- 
--  Bozorgi, A.; Haghighi, H.; Zahedi, M. S.; Rezvani, M. INCIM: a community-based algorithm for influence maximization problem under the linear threshold model.() Inf. Proc. Manag. 2016, 52, 1188-99.
-
--  Holme, P. Three faces of node importance in network epidemiology: exact results for small graphs.() Phys. Rev. E. 2017, 96, 062305.
+-  Robinaugh, D. J.; Millner, A. J.; McNally, R. J. Identifying highly influential nodes in the complicated grief network.(http://dx.doi.org/10.1037/abn0000181) J. Abnorm. Psychol. 2016, 125, 747.
 
  
-- Yin, H.; Zhang, A.; Zeng, A. Identifying hidden target nodes for spreading in complex networks.() Chaos. Soliton. Fract. 2023, 168, 113103.
+-  Bozorgi, A.; Haghighi, H.; Zahedi, M. S.; Rezvani, M. INCIM: a community-based algorithm for influence maximization problem under the linear threshold model.(http://dx.doi.org/10.1016/j.ipm.2016.05.006) Inf. Proc. Manag. 2016, 52, 1188-99.
 
--  He, Q.; Wang, X.; Lei, Z.; et al. TIFIM: a two-stage iterative framework for influence maximization in social networks.() Appl. Math. Comput. 2019, 354, 338-52.
+-  Holme, P. Three faces of node importance in network epidemiology: exact results for small graphs.(http://dx.doi.org/10.1103/physreve.96.062305) Phys. Rev. E. 2017, 96, 062305.
 
--  Tulu, M. M.; Hou, R.; Younas, T. Vital nodes extracting method based on user's behavior in 5G mobile social networks.() J. Netw. Comput. Appl. 2019, 133, 39-50.
+ 
+- Yin, H.; Zhang, A.; Zeng, A. Identifying hidden target nodes for spreading in complex networks.(http://dx.doi.org/10.1016/j.chaos.2023.113103) Chaos. Soliton. Fract. 2023, 168, 113103.
 
--  Zhong, L.; Bai, Y.; Tian, Y.; et al. Information entropy based on propagation feature of node for identifying the influential nodes.() Complexity 2021, 2021, 5554322.
+-  He, Q.; Wang, X.; Lei, Z.; et al. TIFIM: a two-stage iterative framework for influence maximization in social networks.(http://dx.doi.org/10.1016/j.amc.2019.02.056) Appl. Math. Comput. 2019, 354, 338-52.
 
--  Li, P.; Liu, K.; Li, K.; Liu, J.; Zhou, D. Estimating user influence ranking in independent cascade model.() Phys. A. 2021, 565, 125584.
+-  Tulu, M. M.; Hou, R.; Younas, T. Vital nodes extracting method based on user's behavior in 5G mobile social networks.(http://dx.doi.org/10.1016/j.jnca.2019.02.012) J. Netw. Comput. Appl. 2019, 133, 39-50.
 
--  Gong, Y.; Liu, S.; Bai, Y. A probability-driven structure-aware algorithm for influence maximization under independent cascade model.() Phys. A. 2021, 583, 126318.
+-  Zhong, L.; Bai, Y.; Tian, Y.; et al. Information entropy based on propagation feature of node for identifying the influential nodes.(http://dx.doi.org/10.1155/2021/5554322) Complexity 2021, 2021, 5554322.
 
--  Wang, Y.; Zheng, Y.; Liu, Y. HGIM: Influence maximization in diffusion cascades from the perspective of heterogeneous graph.() Appl. Intell. 2023, 53, 22200-22215.
+-  Li, P.; Liu, K.; Li, K.; Liu, J.; Zhou, D. Estimating user influence ranking in independent cascade model.(http://dx.doi.org/10.1016/j.physa.2020.125584) Phys. A. 2021, 565, 125584.
 
--  Mohammadi, S.; Nadimi-Shahraki, M. H.; Beheshti, Z.; Zamanifar, K. Improved information diffusion models based on a new two-sided sign-aware matching framework in complex networks.() Chaos. Soliton. Fract. 2024, 187, 115298.
+-  Gong, Y.; Liu, S.; Bai, Y. A probability-driven structure-aware algorithm for influence maximization under independent cascade model.(http://dx.doi.org/10.1016/j.physa.2021.126318) Phys. A. 2021, 583, 126318.
 
--  Wang, J.; Sun, S. Identifying influential nodes: a new method based on dynamic propagation probability model.() Chaos. Soliton. Fract. 2024, 185, 115159.
+-  Wang, Y.; Zheng, Y.; Liu, Y. HGIM: Influence maximization in diffusion cascades from the perspective of heterogeneous graph.(http://dx.doi.org/10.1007/s10489-023-04711-4) Appl. Intell. 2023, 53, 22200-22215.
 
--  Xu, G.; Meng, L. A novel algorithm for identifying influential nodes in complex networks based on local propagation probability model.() Chaos. Soliton. Fract. 2023, 168, 113155.
+-  Mohammadi, S.; Nadimi-Shahraki, M. H.; Beheshti, Z.; Zamanifar, K. Improved information diffusion models based on a new two-sided sign-aware matching framework in complex networks.(http://dx.doi.org/10.1016/j.chaos.2024.115298) Chaos. Soliton. Fract. 2024, 187, 115298.
 
--  Ai, J.; He, T.; Su, Z.; Shang, L. Identifying influential nodes in complex networks based on spreading probability.() Chaos. Soliton. Fract. 2022, 164, 112627.
+-  Wang, J.; Sun, S. Identifying influential nodes: a new method based on dynamic propagation probability model.(http://dx.doi.org/10.1016/j.chaos.2024.115159) Chaos. Soliton. Fract. 2024, 185, 115159.
 
--  Zareie, A.; Sheikhahmadi, A.; Jalili, M. Identification of influential users in social network using gray wolf optimization algorithm.() Expert. Syst. Appl. 2020, 142, 112971.
+-  Xu, G.; Meng, L. A novel algorithm for identifying influential nodes in complex networks based on local propagation probability model.(http://dx.doi.org/10.1016/j.chaos.2023.113155) Chaos. Soliton. Fract. 2023, 168, 113155.
 
--  Chen, G.; Zhou, S.; Liu, J.; Li, M.; Zhou, Q. Influential node detection of social networks based on network invulnerability.() Phys. Lett. A. 2020, 384, 126879.
+-  Ai, J.; He, T.; Su, Z.; Shang, L. Identifying influential nodes in complex networks based on spreading probability.(http://dx.doi.org/10.2139/ssrn.4120963) Chaos. Soliton. Fract. 2022, 164, 112627.
 
--  Fink, C. G.; Fullin, K.; Gutierrez, G.; et al. A centrality measure for quantifying spread on weighted, directed networks.() Phys. A. 2023, 626, 129083.
+-  Zareie, A.; Sheikhahmadi, A.; Jalili, M. Identification of influential users in social network using gray wolf optimization algorithm.(http://dx.doi.org/10.1016/j.eswa.2019.112971) Expert. Syst. Appl. 2020, 142, 112971.
 
--  Sun, Z.; Sun, Y.; Chang, X.; et al. Finding critical nodes in a complex network from information diffusion and Matthew effect aggregation.() Expert. Syst. Appl. 2023, 233, 120927.
+-  Chen, G.; Zhou, S.; Liu, J.; Li, M.; Zhou, Q. Influential node detection of social networks based on network invulnerability.(http://dx.doi.org/10.1016/j.physleta.2020.126879) Phys. Lett. A. 2020, 384, 126879.
 
--  Ullah, A.; Shao, J.; Yang, Q.; et al. Lss: a locality-based structure system to evaluate the spreader's importance in social complex networks.() Expert. Syst. Appl. 2023, 228, 120326.
+-  Fink, C. G.; Fullin, K.; Gutierrez, G.; et al. A centrality measure for quantifying spread on weighted, directed networks.(http://dx.doi.org/10.1016/j.physa.2023.129083) Phys. A. 2023, 626, 129083.
 
-- Corsin, J.; Zino, L.; Ye, M. An evidence-accumulating drift-diffusion model of competing information spread on networks.() Chaos. Soliton. Fract. 2025, 192, 115935.
+-  Sun, Z.; Sun, Y.; Chang, X.; et al. Finding critical nodes in a complex network from information diffusion and Matthew effect aggregation.(http://dx.doi.org/10.1016/j.eswa.2023.120927) Expert. Syst. Appl. 2023, 233, 120927.
+
+-  Ullah, A.; Shao, J.; Yang, Q.; et al. Lss: a locality-based structure system to evaluate the spreader's importance in social complex networks.(http://dx.doi.org/10.1016/j.eswa.2023.120326) Expert. Syst. Appl. 2023, 228, 120326.
+
+- Corsin, J.; Zino, L.; Ye, M. An evidence-accumulating drift-diffusion model of competing information spread on networks.(http://dx.doi.org/10.1016/j.chaos.2024.115935) Chaos. Soliton. Fract. 2025, 192, 115935.
 
 
 #### 7.2 Dynamical sensitivity
--  Liu, J. G.; Lin, J.; Guo, Q.; Zhou, T. Locating influential nodes via dynamics-sensitive centrality.() Sci. Rep. 2016, 6, 21380.
+-  Liu, J. G.; Lin, J.; Guo, Q.; Zhou, T. Locating influential nodes via dynamics-sensitive centrality.(http://dx.doi.org/10.1038/srep21380) Sci. Rep. 2016, 6, 21380.
 
  
--  Mo, H.; Deng, Y. Identifying node importance based on evidence theory in complex networks.() Phys. A. 2019, 529, 121538.
+-  Mo, H.; Deng, Y. Identifying node importance based on evidence theory in complex networks.(http://dx.doi.org/10.1016/j.physa.2019.121538) Phys. A. 2019, 529, 121538.
 
--  Du, Z.; Tang, J.; Qi, Y.; et al. Identifying critical nodes in metro network considering topological potential: a case study in Shenzhen city - China.() Phys. A. 2020, 539, 122926.
+-  Du, Z.; Tang, J.; Qi, Y.; et al. Identifying critical nodes in metro network considering topological potential: a case study in Shenzhen city - China.(http://dx.doi.org/10.1016/j.physa.2019.122926) Phys. A. 2020, 539, 122926.
 
 
 
 
 ### 8. Higher-order Networks Based Ranking Methods
 
--  Kapoor, K.; Sharma, D.; Srivastava, J. Weighted node degree centrality for hypergraphs.() In: 2013 IEEE 2nd Network Science Workshop; 2013. pp. 152-55.
+-  Kapoor, K.; Sharma, D.; Srivastava, J. Weighted node degree centrality for hypergraphs.(http://dx.doi.org/10.1109/NSW.2013.6609212) In: 2013 IEEE 2nd Network Science Workshop; 2013. pp. 152-55.
 
--  Lee, J.; Lee, Y.; Oh, S. M.; Kahng, B. Betweenness centrality of teams in social networks.() Chaos 2021, 31, 061108.
-
- 
--  St-Onge, G.; Iacopini, I.; Latora, V.; et al. Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs.() Commun. Phys. 2022, 5, 25.
-
--  Xie, M.; Zhan, X. X.; Liu, C.; Zhang, Z. K. An efficient adaptive degree-based heuristic algorithm for influence maximization in hypergraphs.() Inf. Proc. Manag. 2023, 60, 103161.
-
-- Lee, J.; Goh, K. I.; Lee, D. S.; Kahng, B. (k, q)-core decomposition of hypergraphs.() Chaos. Soliton. Fract. 2023, 173, 113645.
-
--  Mancastroppa, M.; Iacopini, I.; Petri, G.; Barrat, A. Hyper-cores promote localization and efficient seeding in higher-order processes.() Nat. Commun. 2023, 14, 6223.
+-  Lee, J.; Lee, Y.; Oh, S. M.; Kahng, B. Betweenness centrality of teams in social networks.(http://dx.doi.org/10.1063/5.0056683) Chaos 2021, 31, 061108.
 
  
--  Benson, A. R. Three hypergraph eigenvector centralities.() SIAM. J. Math. Data. Sci. 2019, 1, 293-312.
+-  St-Onge, G.; Iacopini, I.; Latora, V.; et al. Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs.(http://dx.doi.org/10.1038/s42005-021-00788-w) Commun. Phys. 2022, 5, 25.
 
--  Zhao, Y.; Li, C.; Shi, D.; Chen, G.; Li, X. Ranking cliques in higher-order complex networks.() Chaos 2023, 33, 073139.
+-  Xie, M.; Zhan, X. X.; Liu, C.; Zhang, Z. K. An efficient adaptive degree-based heuristic algorithm for influence maximization in hypergraphs.(http://dx.doi.org/10.1016/j.ipm.2022.103161) Inf. Proc. Manag. 2023, 60, 103161.
+
+- Lee, J.; Goh, K. I.; Lee, D. S.; Kahng, B. (k, q)-core decomposition of hypergraphs.(http://dx.doi.org/10.1016/j.chaos.2023.113645) Chaos. Soliton. Fract. 2023, 173, 113645.
+
+-  Mancastroppa, M.; Iacopini, I.; Petri, G.; Barrat, A. Hyper-cores promote localization and efficient seeding in higher-order processes.(http://dx.doi.org/10.1038/s41467-023-41887-2) Nat. Commun. 2023, 14, 6223.
 
  
--  Li, S.; Li, X. Influence maximization in hypergraphs: a self-optimizing algorithm based on electrostatic field.() Chaos. Soliton. Fract. 2023, 174, 113888.
+-  Benson, A. R. Three hypergraph eigenvector centralities.(http://dx.doi.org/10.1137/18M1203031) SIAM. J. Math. Data. Sci. 2019, 1, 293-312.
 
--  Xie, X.; Zhan, X.; Zhang, Z.; Liu, C. Vital node identification in hypergraphs via gravity model.() Chaos 2023, 33, 013104.
+-  Zhao, Y.; Li, C.; Shi, D.; Chen, G.; Li, X. Ranking cliques in higher-order complex networks.(https://doi.org/10.1063/5.0147721) Chaos 2023, 33, 073139.
 
  
--  Zhao, X.; Yu, H.; Liu, S.; Cao, X. A general higher-order supracentrality framework based on motifs of temporal networks and multiplex networks.() Phys. A. 2023, 614, 128548.
+-  Li, S.; Li, X. Influence maximization in hypergraphs: a self-optimizing algorithm based on electrostatic field.(http://dx.doi.org/10.1016/j.chaos.2023.113888) Chaos. Soliton. Fract. 2023, 174, 113888.
 
--  Battiston, F.; Cencetti, G.; Iacopini, I.; et al. Networks beyond pairwise interactions: Structure and dynamics.() Phys. Rep. 2020, 874, 1-92.
+-  Xie, X.; Zhan, X.; Zhang, Z.; Liu, C. Vital node identification in hypergraphs via gravity model.(https://doi.org/10.1063/5.0127434) Chaos 2023, 33, 013104.
+
+ 
+-  Zhao, X.; Yu, H.; Liu, S.; Cao, X. A general higher-order supracentrality framework based on motifs of temporal networks and multiplex networks.(http://dx.doi.org/10.1016/j.physa.2023.128548) Phys. A. 2023, 614, 128548.
+
+-  Battiston, F.; Cencetti, G.; Iacopini, I.; et al. Networks beyond pairwise interactions: Structure and dynamics.(http://dx.doi.org/10.1016/j.physrep.2020.05.004) Phys. Rep. 2020, 874, 1-92.
 
 -  Goldberg, T. E. Combinatorial Laplacians of simplicial complexes;(https://pi.math.cornell.edu/goldberg/Papers/CombinatorialLaplacians.pdf)2002.  
 
--  Estrada, E.; Ross, G. J. Centralities in simplicial complexes.() J. Theor. Biol. 2018, 438, 46-60.
+-  Estrada, E.; Ross, G. J. Centralities in simplicial complexes.(http://dx.doi.org/10.1016/j.jtbi.2017.11.003) J. Theor. Biol. 2018, 438, 46-60.
 
  
--  Serrano, D. H.; Hern'andez-Serrano, J.; G'omez, D. S. Simplicial degree in complex networks.() Chaos. Soliton. Fract. 2020, 137, 109839.
+-  Serrano, D. H.; Hern'andez-Serrano, J.; G'omez, D. S. Simplicial degree in complex networks.(http://dx.doi.org/10.48550/arXiv.1908.02583) Chaos. Soliton. Fract. 2020, 137, 109839.
 
--  Granovetter, M. S. The strength of weak ties.() Am. J. Sociol. 1973, 78, 1360-80.
+-  Granovetter, M. S. The strength of weak ties.(http://dx.doi.org/10.1086/225469) Am. J. Sociol. 1973, 78, 1360-80.
 
 -  Estrada, E.; Knight, P. A. A. first. course. in. network. theory.() 2015.
 
-- Kim, H.; Anderson, R. Temporal node centrality in complex networks.() Phys. Rev. E. 2012, 85, 026107.
+- Kim, H.; Anderson, R. Temporal node centrality in complex networks.(http://dx.doi.org/10.1103/PhysRevE.85.026107) Phys. Rev. E. 2012, 85, 026107.
 
 ### 9 Dynamic Networks Based Ranking methods
 
 
--  Tsalouchidou, I.; Baeza-Yates, R.; Bonchi, F.; Liao, K.; Sellis, T. Temporal betweenness centrality in dynamic graphs.() Int. J. Data. Sci. Anal. 2020, 9, 257-72.
+-  Tsalouchidou, I.; Baeza-Yates, R.; Bonchi, F.; Liao, K.; Sellis, T. Temporal betweenness centrality in dynamic graphs.(http://dx.doi.org/10.1007/s41060-019-00189-x) Int. J. Data. Sci. Anal. 2020, 9, 257-72.
 
-- Elmezain, M.; Othman, E. A.; Ibrahim, H. M. Temporal degree-degree and closeness-closeness: a new centrality metrics for social network analysis.() Mathematics 2021, 9, 2850.
+- Elmezain, M.; Othman, E. A.; Ibrahim, H. M. Temporal degree-degree and closeness-closeness: a new centrality metrics for social network analysis.(http://dx.doi.org/10.3390/math9222850) Mathematics 2021, 9, 2850.
 
 -  Lü, L.; Zhang, K.; Zhang, T.; et al. Eigenvector centrality measure based on node similarity for multilayer and temporal networks.(http://dx.doi.org/10.1109/ACCESS.2019.2936217) IEEE. Access. 2019, 7, 115725-33.
 
