@@ -21,7 +21,7 @@ Our work enhances the understanding of critical node research by identifying key
 
 
 <p align="center">
-<img src="img/framework.png" height = "500" alt="" align=center />
+<img src="img/framework.png" height = "530" alt="" align=center />
 </p>
 
 
